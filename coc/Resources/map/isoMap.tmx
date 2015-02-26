@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="isometric" renderorder="left-down" width="50" height="50" tilewidth="158" tileheight="120" nextobjectid="1">
+<map version="1.0" orientation="isometric" renderorder="left-down" width="50" height="50" tilewidth="158" tileheight="120">
  <tileset firstgid="1" name="grass" tilewidth="158" tileheight="120">
   <image source="../buildings/263.0.png" width="158" height="120"/>
  </tileset>
@@ -9,7 +9,7 @@
  <tileset firstgid="3" name="baseCamp" tilewidth="330" tileheight="302">
   <image source="../buildings/1663.0.png" width="330" height="302"/>
  </tileset>
- <layer name="grassLayer" width="50" height="50">
+ <layer name="backgroundLayer" width="50" height="50">
   <data>
    <tile gid="1"/>
    <tile gid="1"/>
@@ -5017,7 +5017,7 @@
    <tile gid="0"/>
   </data>
  </layer>
- <layer name="treeLayer" width="50" height="50">
+ <layer name="roadblockLayer" width="50" height="50">
   <data>
    <tile gid="2"/>
    <tile gid="2"/>
