@@ -4,7 +4,7 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>173.0.png</key>
+            <key>121.0.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{2,2},{49,75}}</string>
@@ -13,7 +13,7 @@
                 <key>sourceSize</key>
                 <string>{49,75}</string>
             </dict>
-            <key>174.0.png</key>
+            <key>122.0.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{57,77},{55,70}}</string>
@@ -22,7 +22,7 @@
                 <key>sourceSize</key>
                 <string>{55,70}</string>
             </dict>
-            <key>175.0.png</key>
+            <key>123.0.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{53,2},{51,73}}</string>
@@ -31,7 +31,7 @@
                 <key>sourceSize</key>
                 <string>{51,73}</string>
             </dict>
-            <key>176.0.png</key>
+            <key>124.0.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{106,2},{51,69}}</string>
@@ -40,7 +40,7 @@
                 <key>sourceSize</key>
                 <string>{51,69}</string>
             </dict>
-            <key>177.0.png</key>
+            <key>125.0.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{2,79},{53,73}}</string>
@@ -49,7 +49,7 @@
                 <key>sourceSize</key>
                 <string>{53,73}</string>
             </dict>
-            <key>178.0.png</key>
+            <key>126.0.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{2,154},{54,71}}</string>
@@ -58,7 +58,7 @@
                 <key>sourceSize</key>
                 <string>{54,71}</string>
             </dict>
-            <key>179.0.png</key>
+            <key>127.0.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{106,149},{49,66}}</string>
@@ -67,7 +67,7 @@
                 <key>sourceSize</key>
                 <string>{49,66}</string>
             </dict>
-            <key>180.0.png</key>
+            <key>128.0.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{58,149},{46,67}}</string>
@@ -82,13 +82,13 @@
             <key>format</key>
             <integer>1</integer>
             <key>realTextureFileName</key>
-            <string>archerMoveToNorthEast.png</string>
+            <string>PurpleArcherMoveToNorthEast.png</string>
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:a8918fe46665cb6f9e27b4fde55dee41$</string>
+            <string>$TexturePacker:SmartUpdate:a4b2e8d128a390f2a6baa617dd558321:137e76f3dbe1ef34473ded778f9465f6:4b450d857f4ea14c19420149cca17421$</string>
             <key>textureFileName</key>
-            <string>archerMoveToNorthEast.png</string>
+            <string>PurpleArcherMoveToNorthEast.png</string>
         </dict>
     </dict>
 </plist>

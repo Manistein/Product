@@ -4,77 +4,77 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>165.0.png</key>
+            <key>17.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,62},{63,56}}</string>
+                <string>{{2,160},{44,77}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{63,56}</string>
+                <string>{44,77}</string>
             </dict>
-            <key>166.0.png</key>
+            <key>18.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{65,58}}</string>
+                <string>{{51,81},{51,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{65,58}</string>
+                <string>{51,74}</string>
             </dict>
-            <key>167.0.png</key>
+            <key>19.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{67,117},{53,60}}</string>
+                <string>{{2,81},{47,77}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{53,60}</string>
+                <string>{47,77}</string>
             </dict>
-            <key>168.0.png</key>
+            <key>20.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,120},{51,61}}</string>
+                <string>{{55,2},{49,72}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{51,61}</string>
+                <string>{49,72}</string>
             </dict>
-            <key>169.0.png</key>
+            <key>21.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{69,2},{55,57}}</string>
+                <string>{{2,2},{51,77}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{55,57}</string>
+                <string>{51,77}</string>
             </dict>
-            <key>170.0.png</key>
+            <key>22.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{69,61},{55,54}}</string>
+                <string>{{48,160},{52,75}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{55,54}</string>
+                <string>{52,75}</string>
             </dict>
-            <key>171.0.png</key>
+            <key>23.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,183},{51,60}}</string>
+                <string>{{104,76},{45,69}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{51,60}</string>
+                <string>{45,69}</string>
             </dict>
-            <key>172.0.png</key>
+            <key>24.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{55,179},{50,60}}</string>
+                <string>{{102,157},{43,70}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{50,60}</string>
+                <string>{43,70}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -82,13 +82,13 @@
             <key>format</key>
             <integer>1</integer>
             <key>realTextureFileName</key>
-            <string>archerMoveToEast.png</string>
+            <string>BlueArcherMoveToNorthEast.png</string>
             <key>size</key>
-            <string>{128,256}</string>
+            <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:af01e6bc154adcf5e2d436fab34f1369$</string>
+            <string>$TexturePacker:SmartUpdate:80f8e06228712629ec70531a28c048ed:6834f8b0c10c102f5d3672c882a5cbc5:09fe845cbf03e4e826b432966bfc878c$</string>
             <key>textureFileName</key>
-            <string>archerMoveToEast.png</string>
+            <string>BlueArcherMoveToNorthEast.png</string>
         </dict>
     </dict>
 </plist>

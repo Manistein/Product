@@ -82,13 +82,13 @@
             <key>format</key>
             <integer>1</integer>
             <key>realTextureFileName</key>
-            <string>archerMoveToSouthEast.png</string>
+            <string>PinkArcherMoveToSouthEast.png</string>
             <key>size</key>
             <string>{128,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:bc9d6c8fdce08629c8041189d27d22ef$</string>
+            <string>$TexturePacker:SmartUpdate:4384ea751e5a15e053be431b7959eb86:dd73b52704e2245d6a8ea45e1468411d:ddc85c80de24a2f3ebccbca5751ff99c$</string>
             <key>textureFileName</key>
-            <string>archerMoveToSouthEast.png</string>
+            <string>PinkArcherMoveToSouthEast.png</string>
         </dict>
     </dict>
 </plist>
