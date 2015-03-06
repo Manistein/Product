@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>183.0.fy.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{55,2},{50,65}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>sourceSize</key>
+                <string>{50,65}</string>
+            </dict>
+            <key>184.0.fy.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{51,66}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>sourceSize</key>
+                <string>{51,66}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>1</integer>
+            <key>realTextureFileName</key>
+            <string>PinkArcherStandAndFaceToWest.png</string>
+            <key>size</key>
+            <string>{128,128}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:4e5afb515444d2bcdeef96640b96d963:ad7abea1b2c91cc11d0eaa210a703854:76717900d945e8b27488dc97d37bf190$</string>
+            <key>textureFileName</key>
+            <string>PinkArcherStandAndFaceToWest.png</string>
+        </dict>
+    </dict>
+</plist>
