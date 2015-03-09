@@ -7,74 +7,74 @@
             <key>1.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{57,62}}</string>
+                <string>{{2,2},{58,63}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
-                <string>{57,62}</string>
+                <string>{70,77}</string>
             </dict>
             <key>2.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{61,2},{55,62}}</string>
+                <string>{{62,2},{56,63}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
-                <string>{55,62}</string>
+                <string>{70,77}</string>
             </dict>
             <key>3.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{57,66},{53,58}}</string>
+                <string>{{58,67},{54,59}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
-                <string>{53,58}</string>
+                <string>{70,77}</string>
             </dict>
             <key>4.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{54,188},{52,57}}</string>
+                <string>{{54,191},{52,57}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{52,57}</string>
+                <string>{70,77}</string>
             </dict>
             <key>5.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,126},{51,60}}</string>
+                <string>{{2,128},{52,61}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
-                <string>{51,60}</string>
+                <string>{70,77}</string>
             </dict>
             <key>6.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,188},{50,59}}</string>
+                <string>{{2,191},{50,59}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{50,59}</string>
+                <string>{70,77}</string>
             </dict>
             <key>7.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{55,126},{50,56}}</string>
+                <string>{{56,128},{50,57}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{0,1}</string>
                 <key>sourceSize</key>
-                <string>{50,56}</string>
+                <string>{70,77}</string>
             </dict>
             <key>8.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,66},{53,58}}</string>
+                <string>{{2,67},{54,59}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
-                <string>{53,58}</string>
+                <string>{70,77}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -86,7 +86,7 @@
             <key>size</key>
             <string>{128,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:db6c5d5cdfc40378a7013210344a73e5:1f502e0286ca0cdcc91c4bd2ef7a3b5a:4ee17a366393e05a4047a2f027731c63$</string>
+            <string>$TexturePacker:SmartUpdate:e4522f0df3d1f63db37cd3ed4f25c50c:e57ae5e9a2357a4b134e7b0fd7ac8473:4ee17a366393e05a4047a2f027731c63$</string>
             <key>textureFileName</key>
             <string>BlueArcherMoveToSouthWest.png</string>
         </dict>

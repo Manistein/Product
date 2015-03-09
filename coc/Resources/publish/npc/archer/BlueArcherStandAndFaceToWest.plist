@@ -11,16 +11,16 @@
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{50,65}</string>
+                <string>{70,77}</string>
             </dict>
             <key>28.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{50,66}}</string>
+                <string>{{2,2},{50,67}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{0,1}</string>
                 <key>sourceSize</key>
-                <string>{50,66}</string>
+                <string>{70,77}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -32,7 +32,7 @@
             <key>size</key>
             <string>{128,128}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6f519cfb89e13ba9db78fe7622ec9ffb:7ed06f0b1e13129c320a6a9291081a1d:3c0a708e39af96929751e5fbef13ad90$</string>
+            <string>$TexturePacker:SmartUpdate:63bb5fca5df7927a6cc77146d6ee9a27:517e954a2144425164181917d8f36849:3c0a708e39af96929751e5fbef13ad90$</string>
             <key>textureFileName</key>
             <string>BlueArcherStandAndFaceToWest.png</string>
         </dict>

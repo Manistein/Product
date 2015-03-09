@@ -11,7 +11,7 @@
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{70,55}</string>
+                <string>{70,77}</string>
             </dict>
             <key>46.0.png</key>
             <dict>
@@ -20,7 +20,7 @@
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{56,57}</string>
+                <string>{70,77}</string>
             </dict>
             <key>47.0.png</key>
             <dict>
@@ -29,7 +29,7 @@
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{56,55}</string>
+                <string>{70,77}</string>
             </dict>
             <key>48.0.png</key>
             <dict>
@@ -38,7 +38,7 @@
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{58,55}</string>
+                <string>{70,77}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -50,7 +50,7 @@
             <key>size</key>
             <string>{256,64}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:4ae50cc2c670ba95a92bb1c4e5a16269:19bdd175a2e489f2fc7f9a95b3b505c5:1ba5888c7d68d7175f3d9ec5c446bcde$</string>
+            <string>$TexturePacker:SmartUpdate:721e709bf5198da6d4e9a420fa8230f1:e0c4ee80d5877b011a39935a2f664668:1ba5888c7d68d7175f3d9ec5c446bcde$</string>
             <key>textureFileName</key>
             <string>BlueArcherAttackToEast.png</string>
         </dict>

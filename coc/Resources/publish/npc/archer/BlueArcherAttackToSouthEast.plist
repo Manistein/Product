@@ -11,34 +11,34 @@
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{58,63}</string>
+                <string>{70,77}</string>
             </dict>
             <key>42.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,67},{43,66}}</string>
+                <string>{{2,67},{44,67}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
-                <string>{43,66}</string>
+                <string>{70,77}</string>
             </dict>
             <key>43.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{47,67},{43,64}}</string>
+                <string>{{48,67},{44,65}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
-                <string>{43,64}</string>
+                <string>{70,77}</string>
             </dict>
             <key>44.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{62,2},{47,63}}</string>
+                <string>{{62,2},{48,63}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,0}</string>
                 <key>sourceSize</key>
-                <string>{47,63}</string>
+                <string>{70,77}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -50,7 +50,7 @@
             <key>size</key>
             <string>{128,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:e4fd897fe27f084286a2ec9b0a3f1dd2:a9ceede2bb5c2355c4eae53b7914e55d:d847604765d63f69cd55a437702b3313$</string>
+            <string>$TexturePacker:SmartUpdate:ed320139e034d8a527ccabd585e2404c:f09faa4f22cb3dab8d8ef290da6da4dd:d847604765d63f69cd55a437702b3313$</string>
             <key>textureFileName</key>
             <string>BlueArcherAttackToSouthEast.png</string>
         </dict>

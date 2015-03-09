@@ -11,43 +11,43 @@
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{44,77}</string>
+                <string>{70,77}</string>
             </dict>
             <key>18.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{51,81},{51,74}}</string>
+                <string>{{52,81},{52,75}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
-                <string>{51,74}</string>
+                <string>{70,77}</string>
             </dict>
             <key>19.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,81},{47,77}}</string>
+                <string>{{2,81},{48,77}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,0}</string>
                 <key>sourceSize</key>
-                <string>{47,77}</string>
+                <string>{70,77}</string>
             </dict>
             <key>20.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{55,2},{49,72}}</string>
+                <string>{{56,2},{50,73}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
-                <string>{49,72}</string>
+                <string>{70,77}</string>
             </dict>
             <key>21.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{51,77}}</string>
+                <string>{{2,2},{52,77}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,0}</string>
                 <key>sourceSize</key>
-                <string>{51,77}</string>
+                <string>{70,77}</string>
             </dict>
             <key>22.0.fy.png</key>
             <dict>
@@ -56,25 +56,25 @@
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{52,75}</string>
+                <string>{70,77}</string>
             </dict>
             <key>23.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{104,76},{45,69}}</string>
+                <string>{{106,77},{46,69}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,0}</string>
                 <key>sourceSize</key>
-                <string>{45,69}</string>
+                <string>{70,77}</string>
             </dict>
             <key>24.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{102,157},{43,70}}</string>
+                <string>{{102,158},{44,71}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
-                <string>{43,70}</string>
+                <string>{70,77}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -86,7 +86,7 @@
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:fd9ab4a2d961bb8797c15722083db94d:09e47d043e433b6cc355ed803ea74d4a:4c9a04d3613db55f1a314085161aeeb2$</string>
+            <string>$TexturePacker:SmartUpdate:575ce96a519b6027af76a3de98e14caf:654f3e0ef4782fe99303f58ebffd6aed:4c9a04d3613db55f1a314085161aeeb2$</string>
             <key>textureFileName</key>
             <string>BlueArcherMoveToNorthWest.png</string>
         </dict>
