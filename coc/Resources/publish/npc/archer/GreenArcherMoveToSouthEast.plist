@@ -7,74 +7,74 @@
             <key>53.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,74},{55,69}}</string>
+                <string>{{2,74},{56,70}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
-                <string>{55,69}</string>
+                <string>{72,78}</string>
             </dict>
             <key>54.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{55,70}}</string>
+                <string>{{2,2},{56,70}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,0}</string>
                 <key>sourceSize</key>
-                <string>{55,70}</string>
+                <string>{72,78}</string>
             </dict>
             <key>55.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{52,145},{49,66}}</string>
+                <string>{{52,146},{50,66}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,0}</string>
                 <key>sourceSize</key>
-                <string>{49,66}</string>
+                <string>{72,78}</string>
             </dict>
             <key>56.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{103,138},{47,65}}</string>
+                <string>{{60,70},{48,66}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
-                <string>{47,65}</string>
+                <string>{72,78}</string>
             </dict>
             <key>57.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{59,70},{46,66}}</string>
+                <string>{{104,138},{46,66}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{46,66}</string>
+                <string>{72,78}</string>
             </dict>
             <key>58.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,145},{48,67}}</string>
+                <string>{{2,146},{48,68}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{0,1}</string>
                 <key>sourceSize</key>
-                <string>{48,67}</string>
+                <string>{72,78}</string>
             </dict>
             <key>59.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{107,70},{46,64}}</string>
+                <string>{{152,2},{46,64}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{46,64}</string>
+                <string>{72,78}</string>
             </dict>
             <key>60.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{59,2},{48,66}}</string>
+                <string>{{60,2},{48,66}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{48,66}</string>
+                <string>{72,78}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -86,7 +86,7 @@
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d6f246017ce1eb911bdf56ba7034947a:0621befca390919cac9e2682f5284ed3:9224e085c85a0fe4c54485b059dfcd44$</string>
+            <string>$TexturePacker:SmartUpdate:5ea19790f9c9a8a7a425d637a066c482:5e45495f035a95f63abe14c865c8d15e:9224e085c85a0fe4c54485b059dfcd44$</string>
             <key>textureFileName</key>
             <string>GreenArcherMoveToSouthEast.png</string>
         </dict>

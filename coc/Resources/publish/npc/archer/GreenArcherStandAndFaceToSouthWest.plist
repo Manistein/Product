@@ -7,20 +7,20 @@
             <key>77.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{58,2},{53,70}}</string>
+                <string>{{58,2},{54,70}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,0}</string>
                 <key>sourceSize</key>
-                <string>{53,70}</string>
+                <string>{72,78}</string>
             </dict>
             <key>78.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{54,71}}</string>
+                <string>{{2,2},{54,72}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{0,1}</string>
                 <key>sourceSize</key>
-                <string>{54,71}</string>
+                <string>{72,78}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -32,7 +32,7 @@
             <key>size</key>
             <string>{128,128}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6ace5572c6b5ce0b30a2391416c8caee:c84ee192c842c408ec9048565baa320f:bf35795264118e7cc55d723d358831c3$</string>
+            <string>$TexturePacker:SmartUpdate:c24a11f562d9ad00f8593d871db98b95:73db5569a576f987ddba19e745021895:bf35795264118e7cc55d723d358831c3$</string>
             <key>textureFileName</key>
             <string>GreenArcherStandAndFaceToSouthWest.png</string>
         </dict>

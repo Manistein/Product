@@ -7,74 +7,74 @@
             <key>69.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,81},{49,77}}</string>
+                <string>{{2,82},{50,78}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,0}</string>
                 <key>sourceSize</key>
-                <string>{49,77}</string>
+                <string>{72,78}</string>
             </dict>
             <key>70.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{57,2},{55,74}}</string>
+                <string>{{58,2},{56,74}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,0}</string>
                 <key>sourceSize</key>
-                <string>{55,74}</string>
+                <string>{72,78}</string>
             </dict>
             <key>71.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,160},{51,76}}</string>
+                <string>{{54,82},{52,76}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,0}</string>
                 <key>sourceSize</key>
-                <string>{51,76}</string>
+                <string>{72,78}</string>
             </dict>
             <key>72.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{55,158},{51,72}}</string>
+                <string>{{58,160},{52,72}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,0}</string>
                 <key>sourceSize</key>
-                <string>{51,72}</string>
+                <string>{72,78}</string>
             </dict>
             <key>73.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{53,77}}</string>
+                <string>{{2,2},{54,78}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,0}</string>
                 <key>sourceSize</key>
-                <string>{53,77}</string>
+                <string>{72,78}</string>
             </dict>
             <key>74.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{53,81},{54,75}}</string>
+                <string>{{2,162},{54,76}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{0,1}</string>
                 <key>sourceSize</key>
-                <string>{54,75}</string>
+                <string>{72,78}</string>
             </dict>
             <key>75.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{109,78},{49,69}}</string>
+                <string>{{108,78},{50,70}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
-                <string>{49,69}</string>
+                <string>{72,78}</string>
             </dict>
             <key>76.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{108,158},{46,70}}</string>
+                <string>{{116,2},{46,70}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
-                <string>{46,70}</string>
+                <string>{72,78}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -86,7 +86,7 @@
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:1578142142bcdf3059391a3056217490:458a2f853702c9da73a16c1e9373326a:fa8ee3a1d962b793ffa94c77d4034bb3$</string>
+            <string>$TexturePacker:SmartUpdate:676d8f31d22ad14288c22b0c30b8ee47:190f3d389b7fdee129872131b931c42c:fa8ee3a1d962b793ffa94c77d4034bb3$</string>
             <key>textureFileName</key>
             <string>GreenArcherMoveToNorthWest.png</string>
         </dict>
