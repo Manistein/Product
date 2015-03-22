@@ -26,9 +26,9 @@
 <key>minRadius</key>
 <real>0.000000</real>
 <key>particleLifespan</key>
-<real>0.400000</real>
+<real>0.500000</real>
 <key>particleLifespanVariance</key>
-<real>0.100000</real>
+<real>0.500000</real>
 <key>rotatePerSecond</key>
 <real>0.000000</real>
 <key>rotatePerSecondVariance</key>
@@ -46,9 +46,9 @@
 <key>sourcePositionVariancey</key>
 <real>0.000000</real>
 <key>sourcePositionx</key>
-<real>176.000000</real>
+<real>228.000000</real>
 <key>sourcePositiony</key>
-<real>193.000000</real>
+<real>10.000000</real>
 <key>speed</key>
 <real>0.000000</real>
 <key>speedVariance</key>
@@ -62,7 +62,7 @@
 <key>startColorRed</key>
 <real>0.474510</real>
 <key>startColorVarianceAlpha</key>
-<real>0.000000</real>
+<real>1.000000</real>
 <key>startColorVarianceBlue</key>
 <real>0.674510</real>
 <key>startColorVarianceGreen</key>
