@@ -7,38 +7,38 @@
             <key>205.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{57,2},{41,78}}</string>
+                <string>{{58,2},{42,78}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{4,0}</string>
                 <key>sourceSize</key>
-                <string>{41,78}</string>
+                <string>{70,78}</string>
             </dict>
             <key>206.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,149},{34,74}}</string>
+                <string>{{2,150},{34,74}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{9,0}</string>
                 <key>sourceSize</key>
-                <string>{34,74}</string>
+                <string>{60,74}</string>
             </dict>
             <key>207.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,74},{40,73}}</string>
+                <string>{{2,74},{40,74}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{5,-2}</string>
                 <key>sourceSize</key>
-                <string>{40,73}</string>
+                <string>{74,78}</string>
             </dict>
             <key>208.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{53,70}}</string>
+                <string>{{2,2},{54,70}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-2,-4}</string>
                 <key>sourceSize</key>
-                <string>{53,70}</string>
+                <string>{74,78}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -50,7 +50,7 @@
             <key>size</key>
             <string>{128,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:1ad0a6a5972e3da528879fadec3ad8cf:d2a89db51fdb8f189a221cc7676ee277:67aae8ed40b56e20d16a1c9e32afe6ed$</string>
+            <string>$TexturePacker:SmartUpdate:909d5c81a6132167129cf37ff5d3fe58:aca7fb7fa0729983eb5f4adbcfd33e08:67aae8ed40b56e20d16a1c9e32afe6ed$</string>
             <key>textureFileName</key>
             <string>PinkArcherAttackToNorthWest.png</string>
         </dict>
