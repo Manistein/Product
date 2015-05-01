@@ -7,38 +7,38 @@
             <key>3489.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,78},{37,74}}</string>
+                <string>{{2,79},{38,75}}</string>
                 <key>offset</key>
-                <string>{-1,0}</string>
+                <string>{-2,1}</string>
                 <key>sourceSize</key>
-                <string>{41,74}</string>
+                <string>{90,79}</string>
             </dict>
             <key>3490.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{82,2},{37,74}}</string>
+                <string>{{82,2},{38,75}}</string>
                 <key>offset</key>
-                <string>{-1,0}</string>
+                <string>{-2,1}</string>
                 <key>sourceSize</key>
-                <string>{41,74}</string>
+                <string>{90,79}</string>
             </dict>
             <key>3491.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{39,74}}</string>
+                <string>{{42,2},{38,75}}</string>
                 <key>offset</key>
-                <string>{-1,0}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
-                <string>{41,74}</string>
+                <string>{90,79}</string>
             </dict>
             <key>3492.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{43,2},{37,74}}</string>
+                <string>{{2,2},{38,75}}</string>
                 <key>offset</key>
-                <string>{-1,0}</string>
+                <string>{-2,1}</string>
                 <key>sourceSize</key>
-                <string>{41,74}</string>
+                <string>{90,79}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -46,13 +46,13 @@
             <key>format</key>
             <integer>1</integer>
             <key>realTextureFileName</key>
-            <string>die.png</string>
+            <string>Die.png</string>
             <key>size</key>
             <string>{128,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:cedb7e696682acf1944888d881a69019:51189fb0cc6f38d6c182291bd9ef0af3:5e16e2626a28a3457b36ca8093546a30$</string>
+            <string>$TexturePacker:SmartUpdate:f482e4407252490c2fb8eb7957511b3e:5d562b5336e0eb999456f06463199fdc:f623c01f2d4dd2bc0f89e63912f3ede5$</string>
             <key>textureFileName</key>
-            <string>die.png</string>
+            <string>Die.png</string>
         </dict>
     </dict>
 </plist>
