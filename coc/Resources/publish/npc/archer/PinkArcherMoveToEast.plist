@@ -9,7 +9,7 @@
                 <key>frame</key>
                 <string>{{2,63},{64,57}}</string>
                 <key>offset</key>
-                <string>{-1,-11}</string>
+                <string>{-2,1}</string>
                 <key>sourceSize</key>
                 <string>{90,79}</string>
             </dict>
@@ -18,7 +18,7 @@
                 <key>frame</key>
                 <string>{{2,2},{66,59}}</string>
                 <key>offset</key>
-                <string>{-1,-10}</string>
+                <string>{-5,1}</string>
                 <key>sourceSize</key>
                 <string>{90,79}</string>
             </dict>
@@ -27,7 +27,7 @@
                 <key>frame</key>
                 <string>{{68,118},{54,61}}</string>
                 <key>offset</key>
-                <string>{-1,-9}</string>
+                <string>{-3,1}</string>
                 <key>sourceSize</key>
                 <string>{90,79}</string>
             </dict>
@@ -36,7 +36,7 @@
                 <key>frame</key>
                 <string>{{2,185},{52,61}}</string>
                 <key>offset</key>
-                <string>{-1,-9}</string>
+                <string>{-4,0}</string>
                 <key>sourceSize</key>
                 <string>{90,79}</string>
             </dict>
@@ -45,7 +45,7 @@
                 <key>frame</key>
                 <string>{{70,2},{56,57}}</string>
                 <key>offset</key>
-                <string>{-1,-11}</string>
+                <string>{-4,0}</string>
                 <key>sourceSize</key>
                 <string>{90,79}</string>
             </dict>
@@ -54,7 +54,7 @@
                 <key>frame</key>
                 <string>{{70,61},{56,55}}</string>
                 <key>offset</key>
-                <string>{-1,-12}</string>
+                <string>{-7,1}</string>
                 <key>sourceSize</key>
                 <string>{90,79}</string>
             </dict>
@@ -63,7 +63,7 @@
                 <key>frame</key>
                 <string>{{2,122},{52,61}}</string>
                 <key>offset</key>
-                <string>{-1,-9}</string>
+                <string>{-1,1}</string>
                 <key>sourceSize</key>
                 <string>{90,79}</string>
             </dict>
@@ -72,7 +72,7 @@
                 <key>frame</key>
                 <string>{{56,181},{50,61}}</string>
                 <key>offset</key>
-                <string>{0,-9}</string>
+                <string>{4,1}</string>
                 <key>sourceSize</key>
                 <string>{90,79}</string>
             </dict>
@@ -86,7 +86,7 @@
             <key>size</key>
             <string>{128,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:4f6bddb6667c835bd35623000d945ad0:1fa44d6f6fa885ef958e07201baeca9a:e5f92b253a245e573931f8a97fa9f1e6$</string>
+            <string>$TexturePacker:SmartUpdate:281902be8239e9281a18cb763129dbe4:adb77c8d722ee97b17471e5043cc8dc3:e5f92b253a245e573931f8a97fa9f1e6$</string>
             <key>textureFileName</key>
             <string>PinkArcherMoveToEast.png</string>
         </dict>

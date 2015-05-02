@@ -9,7 +9,7 @@
                 <key>frame</key>
                 <string>{{124,2},{68,55}}</string>
                 <key>offset</key>
-                <string>{8,-12}</string>
+                <string>{6,0}</string>
                 <key>sourceSize</key>
                 <string>{90,79}</string>
             </dict>
@@ -18,7 +18,7 @@
                 <key>frame</key>
                 <string>{{2,2},{60,59}}</string>
                 <key>offset</key>
-                <string>{0,-10}</string>
+                <string>{-3,2}</string>
                 <key>sourceSize</key>
                 <string>{90,79}</string>
             </dict>
@@ -27,7 +27,7 @@
                 <key>frame</key>
                 <string>{{64,2},{58,57}}</string>
                 <key>offset</key>
-                <string>{0,-11}</string>
+                <string>{-2,1}</string>
                 <key>sourceSize</key>
                 <string>{90,79}</string>
             </dict>
@@ -36,7 +36,7 @@
                 <key>frame</key>
                 <string>{{194,2},{56,55}}</string>
                 <key>offset</key>
-                <string>{0,-12}</string>
+                <string>{0,0}</string>
                 <key>sourceSize</key>
                 <string>{90,79}</string>
             </dict>
@@ -46,13 +46,13 @@
             <key>format</key>
             <integer>1</integer>
             <key>realTextureFileName</key>
-            <string>PinkArcherAttackToEast.plist</string>
+            <string>PinkArcherAttackToEast.png</string>
             <key>size</key>
             <string>{256,64}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6cee08f4e558f28b1172b813e1fabf76:74f5fdba4fb6ec5d7e284de05dab226a:2f4003e7e5a8dba24d1167b6a2790068$</string>
+            <string>$TexturePacker:SmartUpdate:efa1f406b71dc00318f23d82c81553f4:bc0b7b18cf41b919fd1fa00bf4b62bf6:434f6efa6ba32622db0c69c3323e64a1$</string>
             <key>textureFileName</key>
-            <string>PinkArcherAttackToEast.plist</string>
+            <string>PinkArcherAttackToEast.png</string>
         </dict>
     </dict>
 </plist>
