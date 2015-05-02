@@ -7,34 +7,34 @@
             <key>45.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{60,2},{70,55}}</string>
+                <string>{{2,2},{64,55}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{3,0}</string>
                 <key>sourceSize</key>
                 <string>{70,77}</string>
             </dict>
             <key>46.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{56,57}}</string>
+                <string>{{2,59},{56,57}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-3,1}</string>
                 <key>sourceSize</key>
                 <string>{70,77}</string>
             </dict>
             <key>47.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{192,2},{56,55}}</string>
+                <string>{{60,59},{56,55}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-2,0}</string>
                 <key>sourceSize</key>
                 <string>{70,77}</string>
             </dict>
             <key>48.0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{132,2},{58,55}}</string>
+                <string>{{68,2},{58,55}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
@@ -48,9 +48,9 @@
             <key>realTextureFileName</key>
             <string>BlueArcherAttackToEast.png</string>
             <key>size</key>
-            <string>{256,64}</string>
+            <string>{128,128}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:721e709bf5198da6d4e9a420fa8230f1:e0c4ee80d5877b011a39935a2f664668:1ba5888c7d68d7175f3d9ec5c446bcde$</string>
+            <string>$TexturePacker:SmartUpdate:5e51e994a32a7f4f9d1ac12b6f01d9c6:fa84093c62e95b81a605dada54fcf32a:1ba5888c7d68d7175f3d9ec5c446bcde$</string>
             <key>textureFileName</key>
             <string>BlueArcherAttackToEast.png</string>
         </dict>

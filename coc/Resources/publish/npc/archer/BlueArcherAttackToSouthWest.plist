@@ -9,7 +9,7 @@
                 <key>frame</key>
                 <string>{{2,2},{58,63}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-4,0}</string>
                 <key>sourceSize</key>
                 <string>{70,77}</string>
             </dict>
@@ -18,7 +18,7 @@
                 <key>frame</key>
                 <string>{{2,67},{44,67}}</string>
                 <key>offset</key>
-                <string>{-1,1}</string>
+                <string>{1,2}</string>
                 <key>sourceSize</key>
                 <string>{70,77}</string>
             </dict>
@@ -27,7 +27,7 @@
                 <key>frame</key>
                 <string>{{48,67},{44,65}}</string>
                 <key>offset</key>
-                <string>{-1,1}</string>
+                <string>{2,1}</string>
                 <key>sourceSize</key>
                 <string>{70,77}</string>
             </dict>
@@ -36,7 +36,7 @@
                 <key>frame</key>
                 <string>{{62,2},{48,63}}</string>
                 <key>offset</key>
-                <string>{-1,0}</string>
+                <string>{1,0}</string>
                 <key>sourceSize</key>
                 <string>{70,77}</string>
             </dict>
@@ -50,7 +50,7 @@
             <key>size</key>
             <string>{128,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:9a68e92acfb0312d0fb5b19b30415a59:5443f616b10c1bc6502e182cf8d4b01f:1a1b3f80d8df24f158ea7da4268e7fe3$</string>
+            <string>$TexturePacker:SmartUpdate:c0e4f1ab185c61586ae450cfbebb4505:917e905e61fb136eea6410fb5b43439c:1a1b3f80d8df24f158ea7da4268e7fe3$</string>
             <key>textureFileName</key>
             <string>BlueArcherAttackToSouthWest.png</string>
         </dict>

@@ -9,7 +9,7 @@
                 <key>frame</key>
                 <string>{{2,2},{66,59}}</string>
                 <key>offset</key>
-                <string>{-1,1}</string>
+                <string>{-2,1}</string>
                 <key>sourceSize</key>
                 <string>{70,77}</string>
             </dict>
@@ -18,7 +18,7 @@
                 <key>frame</key>
                 <string>{{68,118},{54,61}}</string>
                 <key>offset</key>
-                <string>{0,1}</string>
+                <string>{1,1}</string>
                 <key>sourceSize</key>
                 <string>{70,77}</string>
             </dict>
@@ -45,7 +45,7 @@
                 <key>frame</key>
                 <string>{{70,61},{56,55}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-3,0}</string>
                 <key>sourceSize</key>
                 <string>{70,77}</string>
             </dict>
@@ -54,7 +54,7 @@
                 <key>frame</key>
                 <string>{{2,122},{52,61}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{3,0}</string>
                 <key>sourceSize</key>
                 <string>{70,77}</string>
             </dict>
@@ -63,7 +63,7 @@
                 <key>frame</key>
                 <string>{{2,185},{50,61}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{7,0}</string>
                 <key>sourceSize</key>
                 <string>{70,77}</string>
             </dict>
@@ -72,7 +72,7 @@
                 <key>frame</key>
                 <string>{{2,63},{64,57}}</string>
                 <key>offset</key>
-                <string>{0,1}</string>
+                <string>{2,1}</string>
                 <key>sourceSize</key>
                 <string>{70,77}</string>
             </dict>
@@ -86,7 +86,7 @@
             <key>size</key>
             <string>{128,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:667f741c471f67d22e7f777ce6ecf67d:4e6cb149729253a61ce5157390ac3f27:445c3f289c95631682c5b65be10c4f55$</string>
+            <string>$TexturePacker:SmartUpdate:d353c02ad8fd35ed0be1330a388c077c:3c536f1bc551e04d2ae1346df3621f75:445c3f289c95631682c5b65be10c4f55$</string>
             <key>textureFileName</key>
             <string>BlueArcherMoveToEast.png</string>
         </dict>
