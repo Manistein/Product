@@ -9,7 +9,7 @@
                 <key>frame</key>
                 <string>{{2,2},{68,96}}</string>
                 <key>offset</key>
-                <string>{-3,1}</string>
+                <string>{-3,4}</string>
                 <key>sourceSize</key>
                 <string>{160,150}</string>
             </dict>
@@ -86,7 +86,7 @@
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:821544327396d1faf49d8a65869fa089:9a2dc408a342fb481363c3db339d347e:9893b6a1a1150bb721e3810da2f15b94$</string>
+            <string>$TexturePacker:SmartUpdate:d52b61c60e2070dce9a4f1e80cc24a1b:c876629e5f52748051ae188f1f8775aa:58210724f7218bc303d3772c4ed77d50$</string>
             <key>textureFileName</key>
             <string>BlueBarbarianMoveToNorthEast.png</string>
         </dict>

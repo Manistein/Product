@@ -27,7 +27,7 @@
                 <key>frame</key>
                 <string>{{116,72},{52,64}}</string>
                 <key>offset</key>
-                <string>{2,0}</string>
+                <string>{2,2}</string>
                 <key>sourceSize</key>
                 <string>{160,150}</string>
             </dict>
@@ -86,7 +86,7 @@
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:96f7ddebb362aab29e8732108d1feb4d:0d514594606cdc81bdf73987850164ad:7385888a9a0f218054477d80a2f649f8$</string>
+            <string>$TexturePacker:SmartUpdate:9e08179bd025515b9cc9d6cc0c95464d:25430cbb625b6be2f0218fb993a96c53:0653a60dd5fbb543f3cdecafb8b3b6d4$</string>
             <key>textureFileName</key>
             <string>BlueBarbarianMoveToSouthEast.png</string>
         </dict>
