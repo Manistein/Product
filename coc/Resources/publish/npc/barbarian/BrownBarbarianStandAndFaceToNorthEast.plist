@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>535.0.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{85,74}}</string>
+                <key>offset</key>
+                <string>{9,8}</string>
+                <key>sourceSize</key>
+                <string>{161,150}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>1</integer>
+            <key>realTextureFileName</key>
+            <string>BrownBarbarianStandAndFaceToNorthEast.png</string>
+            <key>size</key>
+            <string>{128,128}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:7d1eafec29af34b57c734d72a9c3b6a5:4c05e8fa9c807aac51abd90415280ad0:9ccd22a650d9e77c88224a1d999c7503$</string>
+            <key>textureFileName</key>
+            <string>BrownBarbarianStandAndFaceToNorthEast.png</string>
+        </dict>
+    </dict>
+</plist>
