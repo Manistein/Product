@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="isometric" renderorder="left-down" width="50" height="50" tilewidth="158" tileheight="120">
  <tileset firstgid="1" name="grass" tilewidth="158" tileheight="120">
-  <image source="../../buildings/263.0.png" width="158" height="120"/>
+  <image source="263.0.png" width="158" height="120"/>
  </tileset>
  <tileset firstgid="2" name="tallTree" tilewidth="157" tileheight="199">
-  <image source="../../buildings/2045.0.png" width="157" height="199"/>
+  <image source="2045.0.png" width="157" height="199"/>
  </tileset>
  <tileset firstgid="3" name="baseCamp" tilewidth="330" tileheight="302">
-  <image source="../../buildings/1663.0.png" width="330" height="302"/>
+  <image source="1663.0.png" width="330" height="302"/>
  </tileset>
  <layer name="backgroundLayer" width="50" height="50">
   <properties>
