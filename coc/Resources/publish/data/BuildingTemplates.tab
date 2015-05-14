@@ -1,0 +1,2 @@
+BuildingTemplateName	PrepareToBuildStatusTextureName	InBuildingStatusTextureName	WorkingStatusTextureName	DestroyStatusTextureName
+BaseCamp	BaseCamp2.png	InBuildingStatusBig.png	BaseCamp2.png	InDestroyStatus.png
