@@ -67,6 +67,24 @@
                 <key>sourceSize</key>
                 <string>{305,361}</string>
             </dict>
+            <key>BeingBuiltStatus.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{802,2},{194,212}}</string>
+                <key>offset</key>
+                <string>{0,-7}</string>
+                <key>sourceSize</key>
+                <string>{194,226}</string>
+            </dict>
+            <key>BeingBuiltStatusBig.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{309,382},{328,346}}</string>
+                <key>offset</key>
+                <string>{-4,0}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
             <key>DisableBuildGrid.png</key>
             <dict>
                 <key>frame</key>
@@ -85,24 +103,6 @@
                 <key>sourceSize</key>
                 <string>{158,120}</string>
             </dict>
-            <key>InBuildingStatus.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{802,2},{194,212}}</string>
-                <key>offset</key>
-                <string>{0,-7}</string>
-                <key>sourceSize</key>
-                <string>{194,226}</string>
-            </dict>
-            <key>InBuildingStatusBig.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{309,382},{328,346}}</string>
-                <key>offset</key>
-                <string>{-4,0}</string>
-                <key>sourceSize</key>
-                <string>{400,400}</string>
-            </dict>
             <key>InDestroyStatus.png</key>
             <dict>
                 <key>frame</key>
@@ -118,13 +118,13 @@
             <key>format</key>
             <integer>1</integer>
             <key>realTextureFileName</key>
-            <string>Common.png</string>
+            <string>BuildingCommon.png</string>
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:bffc43caaea953bf50a1f40b7a57bdbf:7ec82b6e87ae7a8978fc663db1eda656:593cab8d2a050374f0ff2769c430fb21$</string>
+            <string>$TexturePacker:SmartUpdate:71c38217e03df46e29c4fb002781c9bf:771a4d854bc791a036aa37e3130983e1:5b11d1a00a19f64b7970a6fe078cc93c$</string>
             <key>textureFileName</key>
-            <string>Common.png</string>
+            <string>BuildingCommon.png</string>
         </dict>
     </dict>
 </plist>
