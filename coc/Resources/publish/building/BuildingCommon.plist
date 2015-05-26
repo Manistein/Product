@@ -7,7 +7,7 @@
             <key>ArcherTower1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{359,2},{193,245}}</string>
+                <string>{{2,1003},{193,245}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
@@ -16,7 +16,7 @@
             <key>ArcherTower2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{790,766},{192,247}}</string>
+                <string>{{673,752},{192,247}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
@@ -25,7 +25,7 @@
             <key>ArcherTower3.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,745},{198,265}}</string>
+                <string>{{473,730},{198,265}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
@@ -34,7 +34,7 @@
             <key>ArcherTower4.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{551,730},{237,280}}</string>
+                <string>{{2,507},{237,280}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
@@ -43,7 +43,7 @@
             <key>ArcherTower5.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{790,2},{230,296}}</string>
+                <string>{{241,730},{230,296}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
@@ -52,7 +52,7 @@
             <key>BaseCamp1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{355,378}}</string>
+                <string>{{363,2},{355,378}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
@@ -61,43 +61,52 @@
             <key>BaseCamp2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,382},{305,361}}</string>
+                <string>{{681,389},{305,361}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
                 <string>{305,361}</string>
             </dict>
-            <key>BeingBuiltStatus.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{790,552},{194,212}}</string>
-                <key>offset</key>
-                <string>{0,-7}</string>
-                <key>sourceSize</key>
-                <string>{194,226}</string>
-            </dict>
             <key>BeingBuiltStatusBig.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{309,382},{328,346}}</string>
+                <string>{{351,382},{328,346}}</string>
                 <key>offset</key>
                 <string>{-4,0}</string>
                 <key>sourceSize</key>
                 <string>{400,400}</string>
             </dict>
-            <key>BuildingShadow.png</key>
+            <key>BeingBuiltStatusMiddle.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{202,745},{347,251}}</string>
+                <string>{{2,789},{194,212}}</string>
+                <key>offset</key>
+                <string>{0,-7}</string>
+                <key>sourceSize</key>
+                <string>{194,226}</string>
+            </dict>
+            <key>BuildingShadowBig.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,254},{347,251}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
                 <string>{347,251}</string>
             </dict>
+            <key>BuildingShadowMiddle.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{720,192},{259,195}}</string>
+                <key>offset</key>
+                <string>{0,-4}</string>
+                <key>sourceSize</key>
+                <string>{259,203}</string>
+            </dict>
             <key>DisableBuildGrid.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{554,2},{158,120}}</string>
+                <string>{{197,1028},{158,120}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
@@ -106,20 +115,29 @@
             <key>EnableBuildGBrid.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{359,249},{158,120}}</string>
+                <string>{{473,997},{158,120}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
                 <string>{158,120}</string>
             </dict>
-            <key>InDestroyStatus.png</key>
+            <key>InDestroyStatusBig.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{639,300},{359,250}}</string>
+                <string>{{2,2},{359,250}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
                 <string>{359,250}</string>
+            </dict>
+            <key>InDestroyStatusMiddle.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{720,2},{283,188}}</string>
+                <key>offset</key>
+                <string>{0,-5}</string>
+                <key>sourceSize</key>
+                <string>{283,198}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -129,9 +147,9 @@
             <key>realTextureFileName</key>
             <string>BuildingCommon.png</string>
             <key>size</key>
-            <string>{1024,1024}</string>
+            <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:38790ad551a6c334bd1a0569a2c556b5:11be51a129cb80d3370d099658bce1e9:5b11d1a00a19f64b7970a6fe078cc93c$</string>
+            <string>$TexturePacker:SmartUpdate:1b74b87daa2a3c8fd423de303878d1a7:05c6d267f84c62c166818684d718f1d2:5b11d1a00a19f64b7970a6fe078cc93c$</string>
             <key>textureFileName</key>
             <string>BuildingCommon.png</string>
         </dict>
