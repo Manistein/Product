@@ -1,2 +1,2 @@
 BuildingTemplateName	PrepareToBuildStatusTextureName	BeingBuiltStatusTextureName	WorkingStatusTextureName	DestroyStatusTextureName	ShadowTextureName	ShadowYPositionInBeingBuiltStatus	ShadowYPositionInWorkingStatus	ShadowYPositionInDestroyStatus	BuildingTimeBySecond	MaxHP	CenterBottomGridYPosition	ExtraEnemyAttackRadius	DestroySpecialEffectTemplateName
-BaseCamp	BaseCamp2.png	BeingBuiltStatusBig.png	BaseCamp2.png	InDestroyStatus.png	BuildingShadow.png	150	110	110	20	5000	120	100	BuildingBomb
+BaseCamp	BaseCamp2.png	BeingBuiltStatusBig.png	BaseCamp2.png	InDestroyStatus.png	BuildingShadow.png	150	110	110	20	5000	120	0	BuildingBomb
