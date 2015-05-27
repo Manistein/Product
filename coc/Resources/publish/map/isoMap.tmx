@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="isometric" renderorder="left-down" width="50" height="50" tilewidth="158" tileheight="120">
+<map version="1.0" orientation="isometric" renderorder="left-down" width="50" height="50" tilewidth="158" tileheight="120" nextobjectid="135">
  <tileset firstgid="1" name="grass" tilewidth="158" tileheight="120">
   <image source="263.0.png" width="158" height="120"/>
  </tileset>
  <tileset firstgid="2" name="tallTree" tilewidth="157" tileheight="199">
   <image source="2045.0.png" width="157" height="199"/>
  </tileset>
- <tileset firstgid="3" name="baseCamp" tilewidth="330" tileheight="302">
-  <image source="1663.0.png" width="330" height="302"/>
+ <tileset firstgid="3" name="PlayerBaseCamp" tilewidth="305" tileheight="361">
+  <image source="../../buildings/1780.0.png" width="305" height="361"/>
+ </tileset>
+ <tileset firstgid="4" name="AnchorTower" tilewidth="193" tileheight="245">
+  <image source="../../buildings/1034.0.png" width="193" height="245"/>
  </tileset>
  <layer name="backgroundLayer" width="50" height="50">
   <properties>
@@ -5023,4 +5026,25 @@
    <tile gid="2"/>
   </data>
  </layer>
+ <objectgroup name="playerBuildingEditLayer">
+  <object id="117" name="BaseCamp" gid="3" x="521.826" y="5468.48"/>
+  <object id="118" name="PurpleAnchorTower" gid="4" x="1175.71" y="5001.62"/>
+  <object id="119" name="PurpleAnchorTower" gid="4" x="1167.31" y="5246.38"/>
+  <object id="120" name="PurpleAnchorTower" gid="4" x="1152.96" y="5466.79"/>
+  <object id="121" name="PurpleAnchorTower" gid="4" x="287.639" y="4629.09">
+   <properties>
+    <property name="ForceType" value="AI"/>
+   </properties>
+  </object>
+  <object id="122" name="PurpleAnchorTower" gid="4" x="524.655" y="4640.55"/>
+ </objectgroup>
+ <objectgroup name="aiBuildingEditLayer">
+  <object id="124" name="BaseCamp" gid="3" x="5330.38" y="665.984"/>
+  <object id="125" name="PinkAnchorTower" gid="4" x="4768.23" y="336.377"/>
+  <object id="126" name="PinkAnchorTower" gid="4" x="4760.67" y="568.176"/>
+  <object id="127" name="PinkAnchorTower" gid="4" x="4759.18" y="806.035"/>
+  <object id="128" name="PinkAnchorTower" gid="4" x="4731.02" y="1040.25"/>
+  <object id="129" name="PinkAnchorTower" gid="4" x="5734.97" y="1169.63"/>
+  <object id="130" name="PinkAnchorTower" gid="4" x="5471.3" y="1154.52"/>
+ </objectgroup>
 </map>
