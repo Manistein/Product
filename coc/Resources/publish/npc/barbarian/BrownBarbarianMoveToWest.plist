@@ -4,7 +4,7 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>517.0.png</key>
+            <key>517.0.fy.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{2,82},{101,70}}</string>
@@ -13,7 +13,7 @@
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
-            <key>518.0.png</key>
+            <key>518.0.fy.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{2,2},{87,78}}</string>
@@ -22,7 +22,7 @@
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
-            <key>519.0.png</key>
+            <key>519.0.fy.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{75,166},{71,80}}</string>
@@ -31,7 +31,7 @@
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
-            <key>520.0.png</key>
+            <key>520.0.fy.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{2,154},{71,80}}</string>
@@ -40,7 +40,7 @@
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
-            <key>521.0.png</key>
+            <key>521.0.fy.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{148,166},{69,80}}</string>
@@ -49,7 +49,7 @@
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
-            <key>522.0.png</key>
+            <key>522.0.fy.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{180,80},{69,84}}</string>
@@ -58,7 +58,7 @@
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
-            <key>523.0.png</key>
+            <key>523.0.fy.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{105,80},{73,84}}</string>
@@ -67,7 +67,7 @@
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
-            <key>524.0.png</key>
+            <key>524.0.fy.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{91,2},{91,76}}</string>
