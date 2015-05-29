@@ -2,3 +2,5 @@ BuildingTemplateName	PrepareToBuildStatusTextureName	BeingBuiltStatusTextureName
 BaseCamp	BaseCamp2.png	BeingBuiltStatusBig.png	BaseCamp2.png	InDestroyStatusBig.png	BuildingShadowBig.png	150	110	110	20	5000	120	3	3	0	BuildingBomb	Null	0	0	0
 PurpleAnchorTower	ArcherTower1.png	BeingBuiltStatusMiddle.png	ArcherTower1.png	InDestroyStatusMiddle.png	BuildingShadowMiddle.png	100	100	100	10	2700	40	2	2	0	BuildingBomb	BlueArcher	220	500	20
 PinkAnchorTower	ArcherTower1.png	BeingBuiltStatusMiddle.png	ArcherTower1.png	InDestroyStatusMiddle.png	BuildingShadowMiddle.png	100	100	100	10	2700	40	2	2	0	BuildingBomb	PinkArcher	220	500	20
+BlueMagicTower	MagicTower1.png	BeingBuiltStatusMiddle.png	MagicTower1.png	InDestroyStatusMiddle.png	BuildingShadowMiddle.png	100	100	100	10	2700	40	2	2	0	BuildingBomb	BlueEnchanter	220	500	20
+PurpleMagicTower	MagicTower1.png	BeingBuiltStatusMiddle.png	MagicTower1.png	InDestroyStatusMiddle.png	BuildingShadowMiddle.png	100	100	100	10	2700	40	2	2	0	BuildingBomb	PurpleEnchanter	220	500	20

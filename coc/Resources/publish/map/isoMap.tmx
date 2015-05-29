@@ -12,6 +12,9 @@
  <tileset firstgid="4" name="AnchorTower" tilewidth="193" tileheight="245">
   <image source="../../buildings/1034.0.png" width="193" height="245"/>
  </tileset>
+ <tileset firstgid="5" name="MagicTower" tilewidth="213" tileheight="222">
+  <image source="756.0.png" width="213" height="222"/>
+ </tileset>
  <layer name="backgroundLayer" width="50" height="50">
   <properties>
    <property name="cc_vertexz" value="-1000"/>
@@ -5046,5 +5049,8 @@
   <object name="PinkAnchorTower" gid="4" x="4731.02" y="1040.25"/>
   <object name="PinkAnchorTower" gid="4" x="4920" y="5040"/>
   <object name="PinkAnchorTower" gid="4" x="5471.3" y="1154.52"/>
+  <object name="PurpleMagicTower" gid="5" x="1680" y="4440"/>
+  <object name="PurpleMagicTower" gid="5" x="1680" y="4800"/>
+  <object name="PurpleMagicTower" gid="5" x="1680" y="4080"/>
  </objectgroup>
 </map>

@@ -7,7 +7,7 @@
             <key>ArcherTower1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,1003},{193,245}}</string>
+                <string>{{669,1205},{193,245}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
@@ -16,7 +16,7 @@
             <key>ArcherTower2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{673,752},{192,247}}</string>
+                <string>{{448,1211},{192,247}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
@@ -79,7 +79,7 @@
             <key>BeingBuiltStatusMiddle.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,789},{194,212}}</string>
+                <string>{{473,997},{194,212}}</string>
                 <key>offset</key>
                 <string>{0,-7}</string>
                 <key>sourceSize</key>
@@ -106,7 +106,7 @@
             <key>DisableBuildGrid.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{197,1028},{158,120}}</string>
+                <string>{{864,1327},{158,120}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
@@ -115,7 +115,7 @@
             <key>EnableBuildGBrid.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{473,997},{158,120}}</string>
+                <string>{{864,1205},{158,120}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>sourceSize</key>
@@ -139,6 +139,51 @@
                 <key>sourceSize</key>
                 <string>{283,198}</string>
             </dict>
+            <key>MagicTower1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,1030},{213,222}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>sourceSize</key>
+                <string>{213,222}</string>
+            </dict>
+            <key>MagicTower2.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{673,752},{217,225}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>sourceSize</key>
+                <string>{217,225}</string>
+            </dict>
+            <key>MagicTower3.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{229,1028},{217,224}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>sourceSize</key>
+                <string>{217,224}</string>
+            </dict>
+            <key>MagicTower4.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{673,979},{217,224}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>sourceSize</key>
+                <string>{217,224}</string>
+            </dict>
+            <key>MagicTower5.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,789},{225,239}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>sourceSize</key>
+                <string>{225,239}</string>
+            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -149,7 +194,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:1b74b87daa2a3c8fd423de303878d1a7:05c6d267f84c62c166818684d718f1d2:5b11d1a00a19f64b7970a6fe078cc93c$</string>
+            <string>$TexturePacker:SmartUpdate:3ad70ce1d079de42df01f8f9d8f8fa71:fa677f7bff7f124e300c7cc5639899e9:5b11d1a00a19f64b7970a6fe078cc93c$</string>
             <key>textureFileName</key>
             <string>BuildingCommon.png</string>
         </dict>
