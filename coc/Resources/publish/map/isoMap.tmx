@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="isometric" renderorder="left-down" width="50" height="50" tilewidth="158" tileheight="120" nextobjectid="135">
+<map version="1.0" orientation="isometric" renderorder="left-down" width="50" height="50" tilewidth="158" tileheight="120">
  <tileset firstgid="1" name="grass" tilewidth="158" tileheight="120">
   <image source="263.0.png" width="158" height="120"/>
  </tileset>
@@ -5027,24 +5027,24 @@
   </data>
  </layer>
  <objectgroup name="playerBuildingEditLayer">
-  <object id="117" name="BaseCamp" gid="3" x="521.826" y="5468.48"/>
-  <object id="118" name="PurpleAnchorTower" gid="4" x="1175.71" y="5001.62"/>
-  <object id="119" name="PurpleAnchorTower" gid="4" x="1167.31" y="5246.38"/>
-  <object id="120" name="PurpleAnchorTower" gid="4" x="1152.96" y="5466.79"/>
-  <object id="121" name="PurpleAnchorTower" gid="4" x="287.639" y="4629.09">
+  <object name="BaseCamp" gid="3" x="521.826" y="5468.48"/>
+  <object name="PurpleAnchorTower" gid="4" x="1175.71" y="5001.62"/>
+  <object name="PurpleAnchorTower" gid="4" x="1167.31" y="5246.38"/>
+  <object name="PurpleAnchorTower" gid="4" x="1152.96" y="5466.79"/>
+  <object name="PurpleAnchorTower" gid="4" x="287.639" y="4629.09">
    <properties>
     <property name="ForceType" value="AI"/>
    </properties>
   </object>
-  <object id="122" name="PurpleAnchorTower" gid="4" x="524.655" y="4640.55"/>
+  <object name="PurpleAnchorTower" gid="4" x="524.655" y="4640.55"/>
  </objectgroup>
  <objectgroup name="aiBuildingEditLayer">
-  <object id="124" name="BaseCamp" gid="3" x="5330.38" y="665.984"/>
-  <object id="125" name="PinkAnchorTower" gid="4" x="4768.23" y="336.377"/>
-  <object id="126" name="PinkAnchorTower" gid="4" x="4760.67" y="568.176"/>
-  <object id="127" name="PinkAnchorTower" gid="4" x="4759.18" y="806.035"/>
-  <object id="128" name="PinkAnchorTower" gid="4" x="4731.02" y="1040.25"/>
-  <object id="129" name="PinkAnchorTower" gid="4" x="5734.97" y="1169.63"/>
-  <object id="130" name="PinkAnchorTower" gid="4" x="5471.3" y="1154.52"/>
+  <object name="BaseCamp" gid="3" x="5330.38" y="665.984"/>
+  <object name="PinkAnchorTower" gid="4" x="4768.23" y="336.377"/>
+  <object name="PinkAnchorTower" gid="4" x="4760.67" y="568.176"/>
+  <object name="PinkAnchorTower" gid="4" x="4759.18" y="806.035"/>
+  <object name="PinkAnchorTower" gid="4" x="4731.02" y="1040.25"/>
+  <object name="PinkAnchorTower" gid="4" x="4920" y="5040"/>
+  <object name="PinkAnchorTower" gid="4" x="5471.3" y="1154.52"/>
  </objectgroup>
 </map>
