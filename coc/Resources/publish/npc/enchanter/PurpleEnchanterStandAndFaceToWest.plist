@@ -4,12 +4,12 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>3334.0.png</key>
+            <key>3336.0.fy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{44,76}}</string>
+                <string>{{2,2},{36,72}}</string>
                 <key>offset</key>
-                <string>{-2,0}</string>
+                <string>{5,-5}</string>
                 <key>sourceSize</key>
                 <string>{120,100}</string>
             </dict>
@@ -19,13 +19,13 @@
             <key>format</key>
             <integer>1</integer>
             <key>realTextureFileName</key>
-            <string>PurpleEnchanterStandToSouthEast.png</string>
+            <string>PurpleEnchanterStandToWest.png</string>
             <key>size</key>
             <string>{64,128}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:2f3f86964c7e082ccc5a6cf353042358:d271f5b0dc73fd53c4c01662c79c152a:2406267f6c46ff9ecf65bda58799e210$</string>
+            <string>$TexturePacker:SmartUpdate:8aa2393b6e37234a5e3e3764dd647b7b:0a5e9a3f8bdf6b3fa82439d2f0c5b776:a590a2f89a764a04e8da6463df8e4bd2$</string>
             <key>textureFileName</key>
-            <string>PurpleEnchanterStandToSouthEast.png</string>
+            <string>PurpleEnchanterStandAndFaceToWest.png</string>
         </dict>
     </dict>
 </plist>
