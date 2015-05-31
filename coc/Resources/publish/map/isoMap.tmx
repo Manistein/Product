@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="isometric" renderorder="left-down" width="50" height="50" tilewidth="158" tileheight="120">
+<map version="1.0" orientation="isometric" renderorder="left-down" width="50" height="50" tilewidth="158" tileheight="120" nextobjectid="194">
  <tileset firstgid="1" name="grass" tilewidth="158" tileheight="120">
   <image source="263.0.png" width="158" height="120"/>
  </tileset>
@@ -14,6 +14,15 @@
  </tileset>
  <tileset firstgid="5" name="MagicTower" tilewidth="213" tileheight="222">
   <image source="756.0.png" width="213" height="222"/>
+ </tileset>
+ <tileset firstgid="6" name="PurpleAnchor" tilewidth="70" tileheight="77">
+  <image source="../../characters/25.0.png" width="70" height="77"/>
+ </tileset>
+ <tileset firstgid="7" name="Barbarian" tilewidth="160" tileheight="150">
+  <image source="../../characters/596.0.png" width="160" height="150"/>
+ </tileset>
+ <tileset firstgid="8" name="Enchanter" tilewidth="120" tileheight="100">
+  <image source="../../characters/3294.0.png" width="120" height="100"/>
  </tileset>
  <layer name="backgroundLayer" width="50" height="50">
   <properties>
@@ -5030,27 +5039,74 @@
   </data>
  </layer>
  <objectgroup name="playerBuildingEditLayer">
-  <object name="BaseCamp" gid="3" x="521.826" y="5468.48"/>
-  <object name="PurpleAnchorTower" gid="4" x="1175.71" y="5001.62"/>
-  <object name="PurpleAnchorTower" gid="4" x="1167.31" y="5246.38"/>
-  <object name="PurpleAnchorTower" gid="4" x="1152.96" y="5466.79"/>
-  <object name="PurpleAnchorTower" gid="4" x="287.639" y="4629.09">
+  <object id="1" name="BaseCamp" gid="3" x="521.826" y="5468.48"/>
+  <object id="2" name="PurpleAnchorTower" gid="4" x="1175.71" y="5001.62"/>
+  <object id="3" name="PurpleAnchorTower" gid="4" x="1167.31" y="5246.38"/>
+  <object id="4" name="PurpleAnchorTower" gid="4" x="1152.96" y="5466.79"/>
+  <object id="5" name="PurpleAnchorTower" gid="4" x="287.639" y="4629.09">
    <properties>
     <property name="ForceType" value="AI"/>
    </properties>
   </object>
-  <object name="PurpleAnchorTower" gid="4" x="524.655" y="4640.55"/>
+  <object id="6" name="PurpleAnchorTower" gid="4" x="524.655" y="4640.55"/>
  </objectgroup>
  <objectgroup name="aiBuildingEditLayer">
-  <object name="BaseCamp" gid="3" x="5330.38" y="665.984"/>
-  <object name="PinkAnchorTower" gid="4" x="4768.23" y="336.377"/>
-  <object name="PinkAnchorTower" gid="4" x="4760.67" y="568.176"/>
-  <object name="PinkAnchorTower" gid="4" x="4759.18" y="806.035"/>
-  <object name="PinkAnchorTower" gid="4" x="4731.02" y="1040.25"/>
-  <object name="PinkAnchorTower" gid="4" x="4920" y="5040"/>
-  <object name="PinkAnchorTower" gid="4" x="5471.3" y="1154.52"/>
-  <object name="PurpleMagicTower" gid="5" x="1680" y="4440"/>
-  <object name="PurpleMagicTower" gid="5" x="1680" y="4800"/>
-  <object name="PurpleMagicTower" gid="5" x="1680" y="4080"/>
+  <object id="7" name="BaseCamp" gid="3" x="5330.38" y="665.984"/>
+  <object id="8" name="PinkAnchorTower" gid="4" x="4768.23" y="336.377"/>
+  <object id="9" name="PinkAnchorTower" gid="4" x="4760.67" y="568.176"/>
+  <object id="10" name="PinkAnchorTower" gid="4" x="4759.18" y="806.035"/>
+  <object id="11" name="PinkAnchorTower" gid="4" x="4731.02" y="1040.25"/>
+  <object id="12" name="PinkAnchorTower" gid="4" x="4920" y="5040"/>
+  <object id="13" name="PinkAnchorTower" gid="4" x="5471.3" y="1154.52"/>
+  <object id="14" name="PurpleMagicTower" gid="5" x="1680" y="4440"/>
+  <object id="15" name="PurpleMagicTower" gid="5" x="1680" y="4800"/>
+  <object id="16" name="PurpleMagicTower" gid="5" x="1680" y="4080"/>
+ </objectgroup>
+ <objectgroup name="aiNpcEditLayer">
+  <object id="151" name="PinkArcher" gid="6" x="4116.62" y="1657.38"/>
+  <object id="152" name="PinkArcher" gid="6" x="4296.11" y="1997.89"/>
+  <object id="153" name="PinkArcher" gid="6" x="4235.51" y="1554.49"/>
+  <object id="154" name="PinkArcher" gid="6" x="4227.83" y="1814.17"/>
+  <object id="155" name="PinkArcher" gid="6" x="4219.3" y="1650.7"/>
+  <object id="156" name="PinkArcher" gid="6" x="4097.71" y="1544.29"/>
+  <object id="157" name="PinkArcher" gid="6" x="4088.59" y="1793.41"/>
+  <object id="158" name="PinkArcher" gid="6" x="4122.47" y="1927.53"/>
+  <object id="159" name="BlueBarbarian" gid="7" x="4562.91" y="2017.09"/>
+  <object id="160" name="BlueBarbarian" gid="7" x="4562.91" y="2017.09"/>
+  <object id="161" name="BlueBarbarian" gid="7" x="4490.25" y="1649.75"/>
+  <object id="162" name="BlueBarbarian" gid="7" x="4538.08" y="1885.92"/>
+  <object id="163" name="BlueBarbarian" gid="7" x="4580.45" y="2107.55"/>
+  <object id="164" name="BlueBarbarian" gid="7" x="4488.2" y="2215.8"/>
+  <object id="165" name="BlueBarbarian" gid="7" x="4749.85" y="1894.15"/>
+  <object id="166" name="BlueBarbarian" gid="7" x="4718.38" y="2257.62"/>
+  <object id="167" name="BlueBarbarian" gid="7" x="4870.28" y="2105.72"/>
+  <object id="168" name="BlueBarbarian" gid="7" x="4616.13" y="2355.87"/>
+  <object id="169" name="BlueBarbarian" gid="7" x="4458.15" y="1793.85"/>
+ </objectgroup>
+ <objectgroup name="playerNpcEditLayer">
+  <object id="170" name="BlueArcher" gid="6" x="2394.46" y="5614.94"/>
+  <object id="171" name="BlueArcher" gid="6" x="2542.33" y="5503.06"/>
+  <object id="172" name="BlueArcher" gid="6" x="2538.25" y="5631.14"/>
+  <object id="173" name="BlueArcher" gid="6" x="2534.13" y="5367.27"/>
+  <object id="174" name="BlueArcher" gid="6" x="2410.57" y="5252.82"/>
+  <object id="175" name="BlueArcher" gid="6" x="2410.13" y="5363.27"/>
+  <object id="176" name="BlueArcher" gid="6" x="2404.12" y="5501.7"/>
+  <object id="177" name="BlueArcher" gid="6" x="2538.37" y="5253.03"/>
+  <object id="178" name="BlueBarbarian" gid="7" x="2693.4" y="5670.42"/>
+  <object id="179" name="BlueBarbarian" gid="7" x="2794.84" y="5660.98"/>
+  <object id="180" name="BlueBarbarian" gid="7" x="2807.4" y="5544.42"/>
+  <object id="181" name="BlueBarbarian" gid="7" x="2806.36" y="5429.46"/>
+  <object id="182" name="BlueBarbarian" gid="7" x="2813.19" y="5302.63"/>
+  <object id="183" name="BlueBarbarian" gid="7" x="2689.71" y="5296.11"/>
+  <object id="184" name="BlueBarbarian" gid="7" x="2693.79" y="5408.03"/>
+  <object id="185" name="BlueBarbarian" gid="7" x="2700.07" y="5529.75"/>
+  <object id="186" name="BlueEnchanter" gid="8" x="2930.94" y="5261.06"/>
+  <object id="187" name="BlueEnchanter" gid="8" x="3042.03" y="5277.97"/>
+  <object id="188" name="BlueEnchanter" gid="8" x="3026.15" y="5401.85"/>
+  <object id="189" name="BlueEnchanter" gid="8" x="3050.03" y="5525.97"/>
+  <object id="190" name="BlueEnchanter" gid="8" x="3033.67" y="5646.33"/>
+  <object id="191" name="BlueEnchanter" gid="8" x="2917.39" y="5654.61"/>
+  <object id="192" name="BlueEnchanter" gid="8" x="2903.52" y="5540.48"/>
+  <object id="193" name="BlueEnchanter" gid="8" x="2910.99" y="5393.01"/>
  </objectgroup>
 </map>
