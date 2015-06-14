@@ -21,6 +21,7 @@
         <Image Name="Enchanter.png" />
         <Image Name="MagicTower.png" />
         <Image Name="GameObjectImageBG.png" />
+        <Image Name="ReinforceCDTimeFG.png" />
       </RootFolder>
     </Group>
   </SolutionFolder>
