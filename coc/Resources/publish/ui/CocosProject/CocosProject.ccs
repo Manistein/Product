@@ -1,0 +1,27 @@
+<Solution>
+  <PropertyGroup Name="CocosProject" Version="2.2.9.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="GameLogo.png" />
+        <Image Name="GameMainUIBackground.png" />
+        <Image Name="GameTime.png" />
+        <Image Name="IsoMiniMap.png" />
+        <Image Name="MiniMapNormal.png" />
+        <Image Name="ReinforceButtonDisable.png" />
+        <Image Name="ReinforceButtonDown.png" />
+        <Image Name="ReinforceButtonNormal.png" />
+        <Image Name="ReinforceButtonOver.png" />
+        <Image Name="ReinforceCDTimeBG.png" />
+        <Image Name="TechnologyPoint.png" />
+        <Image Name="Archer.png" />
+        <Image Name="ArcherTower.png" />
+        <Image Name="Barbarian.png" />
+        <Image Name="Enchanter.png" />
+        <Image Name="MagicTower.png" />
+        <Image Name="GameObjectImageBG.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
