@@ -213,6 +213,28 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
+          <AbstractNodeData Name="Text_GameTime" ActionTag="1114285014" Tag="24" IconVisible="False" LeftMargin="122.7676" RightMargin="1107.2324" TopMargin="555.1863" BottomMargin="124.8137" FontSize="20" LabelText="0:0:0&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+            <Size X="50.0000" Y="40.0000" />
+            <AnchorPoint />
+            <Position X="122.7676" Y="124.8137" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.0959" Y="0.1734" />
+            <PreSize />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Text_TechnologyPoint" ActionTag="-1147464361" Tag="27" IconVisible="False" LeftMargin="298.4049" RightMargin="971.5951" TopMargin="555.7462" BottomMargin="124.2538" FontSize="20" LabelText="0&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+            <Size X="10.0000" Y="40.0000" />
+            <AnchorPoint />
+            <Position X="298.4049" Y="124.2538" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2331" Y="0.1726" />
+            <PreSize X="0.0078" Y="0.0556" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
         </Children>
       </ObjectData>
     </Content>
