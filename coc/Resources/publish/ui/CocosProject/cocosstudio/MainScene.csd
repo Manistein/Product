@@ -49,6 +49,16 @@
                 <PreSize X="0.1000" Y="0.4979" />
                 <FileData Type="Normal" Path="ReinforceCDTimeBG.png" Plist="" />
               </AbstractNodeData>
+              <AbstractNodeData Name="Image_ReinforceCoolDownTimeForeground" ActionTag="1387998297" Tag="22" IconVisible="False" LeftMargin="250.8400" RightMargin="901.1600" TopMargin="100.0100" BottomMargin="20.9900" Scale9Width="128" Scale9Height="120" ctype="ImageViewObjectData">
+                <Size X="128.0000" Y="120.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="314.8400" Y="80.9900" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2460" Y="0.3361" />
+                <PreSize X="0.1000" Y="0.1667" />
+                <FileData Type="Normal" Path="ReinforceCDTimeFG.png" Plist="" />
+              </AbstractNodeData>
               <AbstractNodeData Name="Image_MiniMap" ActionTag="-1195626297" Tag="18" IconVisible="False" LeftMargin="48.0287" RightMargin="1084.9713" TopMargin="102.1609" BottomMargin="26.8391" Scale9Width="147" Scale9Height="112" ctype="ImageViewObjectData">
                 <Size X="147.0000" Y="112.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -184,6 +194,43 @@
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
+              <AbstractNodeData Name="Text_GameTime" ActionTag="1114285014" Tag="24" IconVisible="False" LeftMargin="123.7676" RightMargin="1106.2324" TopMargin="71.1863" BottomMargin="129.8137" FontSize="20" LabelText="0:0:0&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                <Size X="50.0000" Y="40.0000" />
+                <AnchorPoint />
+                <Position X="123.7676" Y="129.8137" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.0967" Y="0.5386" />
+                <PreSize />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Text_TechnologyPoint" ActionTag="-1147464361" Tag="27" IconVisible="False" LeftMargin="299.4050" RightMargin="970.5950" TopMargin="70.7462" BottomMargin="130.2538" FontSize="20" LabelText="0&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                <Size X="10.0000" Y="40.0000" />
+                <AnchorPoint />
+                <Position X="299.4050" Y="130.2538" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2339" Y="0.5405" />
+                <PreSize X="0.0078" Y="0.0556" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Button_AskReinforce" ActionTag="1420746631" Tag="23" IconVisible="False" LeftMargin="341.0042" RightMargin="894.9958" TopMargin="180.1641" BottomMargin="15.8359" TouchEnable="True" FontSize="16" ButtonText="0" LeftEage="14" RightEage="14" TopEage="11" BottomEage="11" Scale9OriginX="14" Scale9OriginY="11" Scale9Width="16" Scale9Height="23" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                <Size X="44.0000" Y="45.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="363.0042" Y="38.3359" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2836" Y="0.1591" />
+                <PreSize X="0.0344" Y="0.0625" />
+                <TextColor A="255" R="0" G="0" B="0" />
+                <DisabledFileData Type="Normal" Path="ReinforceButtonDisable.png" Plist="" />
+                <PressedFileData Type="Normal" Path="ReinforceButtonDown.png" Plist="" />
+                <NormalFileData Type="Normal" Path="ReinforceButtonNormal.png" Plist="" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
             </Children>
             <AnchorPoint />
             <Position X="1.1954" Y="-5.8046" />
@@ -196,64 +243,6 @@
             <FirstColor A="255" R="150" G="200" B="255" />
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Text_GameTime" ActionTag="1114285014" Tag="24" IconVisible="False" LeftMargin="122.7676" RightMargin="1107.2324" TopMargin="555.1863" BottomMargin="124.8137" FontSize="20" LabelText="0:0:0&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
-            <Size X="50.0000" Y="40.0000" />
-            <AnchorPoint />
-            <Position X="122.7676" Y="124.8137" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0959" Y="0.1734" />
-            <PreSize />
-            <OutlineColor A="255" R="255" G="0" B="0" />
-            <ShadowColor A="255" R="110" G="110" B="110" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Text_TechnologyPoint" ActionTag="-1147464361" Tag="27" IconVisible="False" LeftMargin="298.4049" RightMargin="971.5951" TopMargin="555.7462" BottomMargin="124.2538" FontSize="20" LabelText="0&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
-            <Size X="10.0000" Y="40.0000" />
-            <AnchorPoint />
-            <Position X="298.4049" Y="124.2538" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.2331" Y="0.1726" />
-            <PreSize X="0.0078" Y="0.0556" />
-            <OutlineColor A="255" R="255" G="0" B="0" />
-            <ShadowColor A="255" R="110" G="110" B="110" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Image_ReinforceCoolDownTimeForeground" ActionTag="1387998297" Tag="22" IconVisible="False" LeftMargin="250.8400" RightMargin="901.1600" TopMargin="583.0100" BottomMargin="16.9900" Scale9Width="128" Scale9Height="120" ctype="ImageViewObjectData">
-            <Size X="128.0000" Y="120.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="314.8400" Y="76.9900" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.2460" Y="0.1069" />
-            <PreSize X="0.1000" Y="0.1667" />
-            <FileData Type="Normal" Path="ReinforceCDTimeFG.png" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_ReinforceCoolDownTimeBackground" ActionTag="-958114762" Tag="23" IconVisible="False" LeftMargin="251.7935" RightMargin="900.2065" TopMargin="582.3353" BottomMargin="17.6647" ctype="SpriteObjectData">
-            <Size X="128.0000" Y="120.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="315.7935" Y="77.6647" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.2467" Y="0.1079" />
-            <PreSize />
-            <FileData Type="Normal" Path="ReinforceCDTimeBG.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Button_AskReinforce" ActionTag="1420746631" Tag="23" IconVisible="False" LeftMargin="341.0042" RightMargin="894.9958" TopMargin="659.1641" BottomMargin="15.8359" TouchEnable="True" FontSize="16" ButtonText="0" LeftEage="14" RightEage="14" TopEage="11" BottomEage="11" Scale9OriginX="14" Scale9OriginY="11" Scale9Width="16" Scale9Height="23" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
-            <Size X="44.0000" Y="45.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="363.0042" Y="38.3359" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.2836" Y="0.0532" />
-            <PreSize X="0.0344" Y="0.0625" />
-            <TextColor A="255" R="0" G="0" B="0" />
-            <DisabledFileData Type="Normal" Path="ReinforceButtonDisable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="ReinforceButtonDown.png" Plist="" />
-            <NormalFileData Type="Normal" Path="ReinforceButtonNormal.png" Plist="" />
-            <OutlineColor A="255" R="255" G="0" B="0" />
-            <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
