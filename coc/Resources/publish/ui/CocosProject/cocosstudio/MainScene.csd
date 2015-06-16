@@ -72,115 +72,80 @@
               <AbstractNodeData Name="Panel_ReinforcementSelectPanel" ActionTag="460613144" Tag="19" IconVisible="False" LeftMargin="870.2505" RightMargin="89.7495" TopMargin="87.0919" BottomMargin="23.9081" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
                 <Size X="320.0000" Y="130.0000" />
                 <Children>
-                  <AbstractNodeData Name="Image_SelectAncher" ActionTag="605237273" Tag="11" IconVisible="False" LeftMargin="2.3188" RightMargin="247.6812" TopMargin="0.0278" BottomMargin="59.9722" TouchEnable="True" Scale9Width="55" Scale9Height="51" ctype="ImageViewObjectData">
-                    <Size X="70.0000" Y="70.0000" />
-                    <Children>
-                      <AbstractNodeData Name="Image_AncherHead" ActionTag="1014559596" Tag="14" IconVisible="False" LeftMargin="12.3193" RightMargin="19.6807" TopMargin="8.4880" BottomMargin="21.5120" Scale9Width="147" Scale9Height="166" ctype="ImageViewObjectData">
-                        <Size X="38.0000" Y="40.0000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="31.3193" Y="41.5120" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.4474" Y="0.5930" />
-                        <PreSize X="0.5429" Y="0.5714" />
-                        <FileData Type="Normal" Path="Archer.png" Plist="" />
-                      </AbstractNodeData>
-                    </Children>
+                  <AbstractNodeData Name="Button_SelectEnchanter" ActionTag="-651158784" Tag="23" IconVisible="False" LeftMargin="9.8394" RightMargin="260.1606" TopMargin="42.2080" BottomMargin="37.7920" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                    <Size X="50.0000" Y="50.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="37.3188" Y="94.9722" />
+                    <Position X="34.8394" Y="62.7920" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.1166" Y="0.7306" />
-                    <PreSize X="0.2188" Y="0.5385" />
-                    <FileData Type="Normal" Path="GameObjectImageBG.png" Plist="" />
+                    <PrePosition X="0.1089" Y="0.4830" />
+                    <PreSize X="0.1563" Y="0.3846" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="Normal" Path="EnchanterButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="EnchanterButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="EnchanterButtonNormal.png" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_SelectBarbarian" ActionTag="2032476883" Tag="15" IconVisible="False" LeftMargin="79.6080" RightMargin="170.3920" TopMargin="1.0198" BottomMargin="58.9802" TouchEnable="True" Scale9Width="55" Scale9Height="51" ctype="ImageViewObjectData">
-                    <Size X="70.0000" Y="70.0000" />
-                    <Children>
-                      <AbstractNodeData Name="Image_BarbarianHead" ActionTag="1858088711" Tag="16" IconVisible="False" LeftMargin="12.3209" RightMargin="19.6791" TopMargin="7.6234" BottomMargin="22.3766" Scale9Width="166" Scale9Height="166" ctype="ImageViewObjectData">
-                        <Size X="38.0000" Y="40.0000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="31.3209" Y="42.3766" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.4474" Y="0.6054" />
-                        <PreSize X="0.5429" Y="0.5714" />
-                        <FileData Type="Normal" Path="Barbarian.png" Plist="" />
-                      </AbstractNodeData>
-                    </Children>
+                  <AbstractNodeData Name="Button_SelectArcher" ActionTag="1506916257" Tag="24" IconVisible="False" LeftMargin="71.4160" RightMargin="198.5840" TopMargin="42.1999" BottomMargin="37.8001" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                    <Size X="50.0000" Y="50.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="114.6080" Y="93.9802" />
+                    <Position X="96.4160" Y="62.8001" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.3582" Y="0.7229" />
-                    <PreSize X="0.2188" Y="0.5385" />
-                    <FileData Type="Normal" Path="GameObjectImageBG.png" Plist="" />
+                    <PrePosition X="0.3013" Y="0.4831" />
+                    <PreSize X="0.1563" Y="0.3846" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="Normal" Path="ArcherButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="ArcherButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="ArcherButtonNormal.png" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_SelectEnchanter" ActionTag="1184926450" Tag="17" IconVisible="False" LeftMargin="155.4899" RightMargin="94.5101" TopMargin="1.4777" BottomMargin="58.5223" TouchEnable="True" Scale9Width="55" Scale9Height="51" ctype="ImageViewObjectData">
-                    <Size X="70.0000" Y="70.0000" />
-                    <Children>
-                      <AbstractNodeData Name="Image_EnchanterHead" ActionTag="-516053660" Tag="18" IconVisible="False" LeftMargin="11.4503" RightMargin="20.5497" TopMargin="7.6230" BottomMargin="22.3770" Scale9Width="160" Scale9Height="166" ctype="ImageViewObjectData">
-                        <Size X="38.0000" Y="40.0000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="30.4503" Y="42.3770" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.4350" Y="0.6054" />
-                        <PreSize X="0.5429" Y="0.5714" />
-                        <FileData Type="Normal" Path="Enchanter.png" Plist="" />
-                      </AbstractNodeData>
-                    </Children>
+                  <AbstractNodeData Name="Button_SelectBarbarian" ActionTag="-1418424746" Tag="25" IconVisible="False" LeftMargin="132.0907" RightMargin="137.9093" TopMargin="42.1334" BottomMargin="37.8666" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                    <Size X="50.0000" Y="50.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="190.4899" Y="93.5223" />
+                    <Position X="157.0907" Y="62.8666" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5953" Y="0.7194" />
-                    <PreSize X="0.2188" Y="0.5385" />
-                    <FileData Type="Normal" Path="GameObjectImageBG.png" Plist="" />
+                    <PrePosition X="0.4909" Y="0.4836" />
+                    <PreSize X="0.1563" Y="0.3846" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="Normal" Path="BarbarianButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="BarbarianButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="BarbarianButtonNormal.png" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_SelectAncherTower" ActionTag="-983569494" Tag="19" IconVisible="False" LeftMargin="233.2283" RightMargin="16.7717" TopMargin="2.5214" BottomMargin="57.4786" TouchEnable="True" Scale9Width="55" Scale9Height="51" ctype="ImageViewObjectData">
-                    <Size X="70.0000" Y="70.0000" />
-                    <Children>
-                      <AbstractNodeData Name="Image_AncherTowerHead" ActionTag="-1498028202" Tag="20" IconVisible="False" LeftMargin="11.4495" RightMargin="20.5505" TopMargin="8.4881" BottomMargin="21.5119" Scale9Width="193" Scale9Height="245" ctype="ImageViewObjectData">
-                        <Size X="38.0000" Y="40.0000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="30.4495" Y="41.5119" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.4350" Y="0.5930" />
-                        <PreSize X="0.5429" Y="0.5714" />
-                        <FileData Type="Normal" Path="ArcherTower.png" Plist="" />
-                      </AbstractNodeData>
-                    </Children>
+                  <AbstractNodeData Name="Button_SelectArcherTower" ActionTag="711738726" Tag="26" IconVisible="False" LeftMargin="191.2602" RightMargin="78.7398" TopMargin="42.1263" BottomMargin="37.8737" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                    <Size X="50.0000" Y="50.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="268.2283" Y="92.4786" />
+                    <Position X="216.2602" Y="62.8737" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.8382" Y="0.7114" />
-                    <PreSize X="0.2188" Y="0.5385" />
-                    <FileData Type="Normal" Path="GameObjectImageBG.png" Plist="" />
+                    <PrePosition X="0.6758" Y="0.4836" />
+                    <PreSize X="0.1563" Y="0.3846" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="Normal" Path="ArcherTowerButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="ArcherTowerButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="ArcherTowerButtonNormal.png" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_SelectMagicTower" ActionTag="1022253782" Tag="21" IconVisible="False" LeftMargin="2.0779" RightMargin="247.9221" TopMargin="68.9630" BottomMargin="-8.9630" TouchEnable="True" Scale9Width="55" Scale9Height="51" ctype="ImageViewObjectData">
-                    <Size X="70.0000" Y="70.0000" />
-                    <Children>
-                      <AbstractNodeData Name="Image_MagicTowerHead" ActionTag="762023498" Tag="22" IconVisible="False" LeftMargin="12.3201" RightMargin="19.6799" TopMargin="9.3530" BottomMargin="20.6470" Scale9Width="213" Scale9Height="222" ctype="ImageViewObjectData">
-                        <Size X="38.0000" Y="40.0000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="31.3201" Y="40.6470" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.4474" Y="0.5807" />
-                        <PreSize X="0.5429" Y="0.5714" />
-                        <FileData Type="Normal" Path="MagicTower.png" Plist="" />
-                      </AbstractNodeData>
-                    </Children>
+                  <AbstractNodeData Name="Button_SelectEnchanterTower" ActionTag="-801420789" Tag="27" IconVisible="False" LeftMargin="251.6425" RightMargin="18.3575" TopMargin="42.6552" BottomMargin="37.3448" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                    <Size X="50.0000" Y="50.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="37.0779" Y="26.0370" />
+                    <Position X="276.6425" Y="62.3448" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.1159" Y="0.2003" />
-                    <PreSize X="0.2188" Y="0.5385" />
-                    <FileData Type="Normal" Path="GameObjectImageBG.png" Plist="" />
+                    <PrePosition X="0.8645" Y="0.4796" />
+                    <PreSize X="0.1563" Y="0.3846" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="Normal" Path="EnchanterTowerButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="EnchanterTowerButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="EnchanterTowerButtonNormal.png" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />

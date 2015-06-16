@@ -22,6 +22,21 @@
         <Image Name="MagicTower.png" />
         <Image Name="GameObjectImageBG.png" />
         <Image Name="ReinforceCDTimeFG.png" />
+        <Image Name="EnchanterButtonDisable.png" />
+        <Image Name="EnchanterButtonDown.png" />
+        <Image Name="EnchanterButtonNormal.png" />
+        <Image Name="ArcherButtonDisable.png" />
+        <Image Name="ArcherButtonDown.png" />
+        <Image Name="ArcherButtonNormal.png" />
+        <Image Name="BarbarianButtonDisable.png" />
+        <Image Name="BarbarianButtonDown.png" />
+        <Image Name="BarbarianButtonNormal.png" />
+        <Image Name="ArcherTowerButtonDisable.png" />
+        <Image Name="ArcherTowerButtonDown.png" />
+        <Image Name="ArcherTowerButtonNormal.png" />
+        <Image Name="EnchanterTowerButtonDisable.png" />
+        <Image Name="EnchanterTowerButtonDown.png" />
+        <Image Name="EnchanterTowerButtonNormal.png" />
       </RootFolder>
     </Group>
   </SolutionFolder>
