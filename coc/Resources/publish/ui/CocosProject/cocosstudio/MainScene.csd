@@ -56,10 +56,10 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.2460" Y="0.3361" />
-                <PreSize X="0.1000" Y="0.1667" />
+                <PreSize X="0.1000" Y="0.4979" />
                 <FileData Type="Normal" Path="ReinforceCDTimeFG.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_MiniMap" ActionTag="-1195626297" Tag="18" IconVisible="False" LeftMargin="48.0287" RightMargin="1084.9713" TopMargin="102.1609" BottomMargin="26.8391" Scale9Width="147" Scale9Height="112" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="Image_MiniMap" ActionTag="-1195626297" Tag="18" IconVisible="False" LeftMargin="48.0287" RightMargin="1084.9713" TopMargin="102.1609" BottomMargin="26.8391" TouchEnable="True" Scale9Width="147" Scale9Height="112" ctype="ImageViewObjectData">
                 <Size X="147.0000" Y="112.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="121.5287" Y="82.8391" />
