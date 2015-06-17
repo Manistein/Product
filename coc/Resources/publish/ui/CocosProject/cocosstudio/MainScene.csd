@@ -72,13 +72,26 @@
               <AbstractNodeData Name="Panel_ReinforcementSelectPanel" ActionTag="460613144" Tag="19" IconVisible="False" LeftMargin="870.2505" RightMargin="89.7495" TopMargin="87.0919" BottomMargin="23.9081" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
                 <Size X="320.0000" Y="130.0000" />
                 <Children>
-                  <AbstractNodeData Name="Button_SelectEnchanter" ActionTag="-651158784" Tag="23" IconVisible="False" LeftMargin="9.8394" RightMargin="260.1606" TopMargin="42.2080" BottomMargin="37.7920" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                  <AbstractNodeData Name="Button_SelectEnchanter" ActionTag="-651158784" Tag="23" IconVisible="False" LeftMargin="9.8382" RightMargin="260.1618" TopMargin="30.2412" BottomMargin="49.7588" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
                     <Size X="50.0000" Y="50.0000" />
+                    <Children>
+                      <AbstractNodeData Name="Text_Number" ActionTag="1989182945" Tag="21" IconVisible="False" LeftMargin="11.7443" RightMargin="16.2557" TopMargin="48.7614" BottomMargin="-42.7614" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                        <Size X="22.0000" Y="44.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="22.7443" Y="-20.7614" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.4549" Y="-0.4152" />
+                        <PreSize />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                    </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="34.8394" Y="62.7920" />
+                    <Position X="34.8382" Y="74.7588" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.1089" Y="0.4830" />
+                    <PrePosition X="0.1089" Y="0.5751" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
                     <DisabledFileData Type="Normal" Path="EnchanterButtonDisable.png" Plist="" />
@@ -87,13 +100,26 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Button_SelectArcher" ActionTag="1506916257" Tag="24" IconVisible="False" LeftMargin="71.4160" RightMargin="198.5840" TopMargin="42.1999" BottomMargin="37.8001" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                  <AbstractNodeData Name="Button_SelectArcher" ActionTag="1506916257" Tag="24" IconVisible="False" LeftMargin="71.4151" RightMargin="198.5849" TopMargin="30.2331" BottomMargin="49.7669" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
                     <Size X="50.0000" Y="50.0000" />
+                    <Children>
+                      <AbstractNodeData Name="Text_Number" ActionTag="-2131025028" Tag="22" IconVisible="False" LeftMargin="11.7400" RightMargin="16.2600" TopMargin="48.7616" BottomMargin="-42.7616" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                        <Size X="22.0000" Y="44.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="22.7400" Y="-20.7616" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.4548" Y="-0.4152" />
+                        <PreSize />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                    </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="96.4160" Y="62.8001" />
+                    <Position X="96.4151" Y="74.7669" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.3013" Y="0.4831" />
+                    <PrePosition X="0.3013" Y="0.5751" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
                     <DisabledFileData Type="Normal" Path="ArcherButtonDisable.png" Plist="" />
@@ -102,13 +128,26 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Button_SelectBarbarian" ActionTag="-1418424746" Tag="25" IconVisible="False" LeftMargin="132.0907" RightMargin="137.9093" TopMargin="42.1334" BottomMargin="37.8666" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                  <AbstractNodeData Name="Button_SelectBarbarian" ActionTag="-1418424746" Tag="25" IconVisible="False" LeftMargin="132.0899" RightMargin="137.9101" TopMargin="30.1666" BottomMargin="49.8334" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
                     <Size X="50.0000" Y="50.0000" />
+                    <Children>
+                      <AbstractNodeData Name="Text_Number" ActionTag="1628187248" Tag="23" IconVisible="False" LeftMargin="11.7400" RightMargin="16.2600" TopMargin="48.7600" BottomMargin="-42.7600" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                        <Size X="22.0000" Y="44.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="22.7400" Y="-20.7600" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.4548" Y="-0.4152" />
+                        <PreSize />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                    </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="157.0907" Y="62.8666" />
+                    <Position X="157.0899" Y="74.8334" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.4909" Y="0.4836" />
+                    <PrePosition X="0.4909" Y="0.5756" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
                     <DisabledFileData Type="Normal" Path="BarbarianButtonDisable.png" Plist="" />
@@ -117,13 +156,26 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Button_SelectArcherTower" ActionTag="711738726" Tag="26" IconVisible="False" LeftMargin="191.2602" RightMargin="78.7398" TopMargin="42.1263" BottomMargin="37.8737" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                  <AbstractNodeData Name="Button_SelectArcherTower" ActionTag="711738726" Tag="26" IconVisible="False" LeftMargin="191.2603" RightMargin="78.7397" TopMargin="30.1595" BottomMargin="49.8405" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
                     <Size X="50.0000" Y="50.0000" />
+                    <Children>
+                      <AbstractNodeData Name="Text_Number" ActionTag="-1999069908" Tag="24" IconVisible="False" LeftMargin="11.7400" RightMargin="16.2600" TopMargin="48.7600" BottomMargin="-42.7600" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                        <Size X="22.0000" Y="44.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="22.7400" Y="-20.7600" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.4548" Y="-0.4152" />
+                        <PreSize />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                    </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="216.2602" Y="62.8737" />
+                    <Position X="216.2603" Y="74.8405" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.6758" Y="0.4836" />
+                    <PrePosition X="0.6758" Y="0.5757" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
                     <DisabledFileData Type="Normal" Path="ArcherTowerButtonDisable.png" Plist="" />
@@ -132,13 +184,26 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Button_SelectEnchanterTower" ActionTag="-801420789" Tag="27" IconVisible="False" LeftMargin="251.6425" RightMargin="18.3575" TopMargin="42.6552" BottomMargin="37.3448" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                  <AbstractNodeData Name="Button_SelectEnchanterTower" ActionTag="-801420789" Tag="27" IconVisible="False" LeftMargin="251.6426" RightMargin="18.3574" TopMargin="30.6884" BottomMargin="49.3116" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
                     <Size X="50.0000" Y="50.0000" />
+                    <Children>
+                      <AbstractNodeData Name="Text_Number" ActionTag="1557950807" Tag="25" IconVisible="False" LeftMargin="11.7400" RightMargin="16.2600" TopMargin="48.7600" BottomMargin="-42.7600" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                        <Size X="22.0000" Y="44.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="22.7400" Y="-20.7600" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.4548" Y="-0.4152" />
+                        <PreSize />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                    </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="276.6425" Y="62.3448" />
+                    <Position X="276.6426" Y="74.3116" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.8645" Y="0.4796" />
+                    <PrePosition X="0.8645" Y="0.5716" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
                     <DisabledFileData Type="Normal" Path="EnchanterTowerButtonDisable.png" Plist="" />
