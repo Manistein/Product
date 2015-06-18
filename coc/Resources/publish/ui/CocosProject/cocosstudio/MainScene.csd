@@ -75,13 +75,13 @@
                   <AbstractNodeData Name="Button_SelectEnchanter" ActionTag="-651158784" Tag="23" IconVisible="False" LeftMargin="9.8382" RightMargin="260.1618" TopMargin="30.2412" BottomMargin="49.7588" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
                     <Size X="50.0000" Y="50.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_Number" ActionTag="1989182945" Tag="21" IconVisible="False" LeftMargin="11.7443" RightMargin="16.2557" TopMargin="48.7614" BottomMargin="-42.7614" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                      <AbstractNodeData Name="Text_Number" ActionTag="1989182945" Tag="21" IconVisible="False" LeftMargin="11.7444" RightMargin="16.2556" TopMargin="40.0000" BottomMargin="-34.0000" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
                         <Size X="22.0000" Y="44.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="22.7443" Y="-20.7614" />
+                        <Position X="22.7444" Y="-12.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.4549" Y="-0.4152" />
+                        <PrePosition X="0.4549" Y="-0.2400" />
                         <PreSize />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
@@ -103,13 +103,13 @@
                   <AbstractNodeData Name="Button_SelectArcher" ActionTag="1506916257" Tag="24" IconVisible="False" LeftMargin="71.4151" RightMargin="198.5849" TopMargin="30.2331" BottomMargin="49.7669" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
                     <Size X="50.0000" Y="50.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_Number" ActionTag="-2131025028" Tag="22" IconVisible="False" LeftMargin="11.7400" RightMargin="16.2600" TopMargin="48.7616" BottomMargin="-42.7616" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                      <AbstractNodeData Name="Text_Number" ActionTag="-2131025028" Tag="22" IconVisible="False" LeftMargin="11.7400" RightMargin="16.2600" TopMargin="40.0000" BottomMargin="-34.0000" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
                         <Size X="22.0000" Y="44.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="22.7400" Y="-20.7616" />
+                        <Position X="22.7400" Y="-12.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.4548" Y="-0.4152" />
+                        <PrePosition X="0.4548" Y="-0.2400" />
                         <PreSize />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
@@ -131,13 +131,13 @@
                   <AbstractNodeData Name="Button_SelectBarbarian" ActionTag="-1418424746" Tag="25" IconVisible="False" LeftMargin="132.0899" RightMargin="137.9101" TopMargin="30.1666" BottomMargin="49.8334" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
                     <Size X="50.0000" Y="50.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_Number" ActionTag="1628187248" Tag="23" IconVisible="False" LeftMargin="11.7400" RightMargin="16.2600" TopMargin="48.7600" BottomMargin="-42.7600" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                      <AbstractNodeData Name="Text_Number" ActionTag="1628187248" Tag="23" IconVisible="False" LeftMargin="11.7400" RightMargin="16.2600" TopMargin="40.0000" BottomMargin="-34.0000" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
                         <Size X="22.0000" Y="44.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="22.7400" Y="-20.7600" />
+                        <Position X="22.7400" Y="-12.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.4548" Y="-0.4152" />
+                        <PrePosition X="0.4548" Y="-0.2400" />
                         <PreSize />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
@@ -159,13 +159,13 @@
                   <AbstractNodeData Name="Button_SelectArcherTower" ActionTag="711738726" Tag="26" IconVisible="False" LeftMargin="191.2603" RightMargin="78.7397" TopMargin="30.1595" BottomMargin="49.8405" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
                     <Size X="50.0000" Y="50.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_Number" ActionTag="-1999069908" Tag="24" IconVisible="False" LeftMargin="11.7400" RightMargin="16.2600" TopMargin="48.7600" BottomMargin="-42.7600" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                      <AbstractNodeData Name="Text_Number" ActionTag="-1999069908" Tag="24" IconVisible="False" LeftMargin="11.7400" RightMargin="16.2600" TopMargin="40.0000" BottomMargin="-34.0000" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
                         <Size X="22.0000" Y="44.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="22.7400" Y="-20.7600" />
+                        <Position X="22.7400" Y="-12.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.4548" Y="-0.4152" />
+                        <PrePosition X="0.4548" Y="-0.2400" />
                         <PreSize />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
@@ -187,13 +187,13 @@
                   <AbstractNodeData Name="Button_SelectEnchanterTower" ActionTag="-801420789" Tag="27" IconVisible="False" LeftMargin="251.6426" RightMargin="18.3574" TopMargin="30.6884" BottomMargin="49.3116" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
                     <Size X="50.0000" Y="50.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_Number" ActionTag="1557950807" Tag="25" IconVisible="False" LeftMargin="11.7400" RightMargin="16.2600" TopMargin="48.7600" BottomMargin="-42.7600" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                      <AbstractNodeData Name="Text_Number" ActionTag="1557950807" Tag="25" IconVisible="False" LeftMargin="11.7400" RightMargin="16.2600" TopMargin="40.0000" BottomMargin="-34.0000" FontSize="22" LabelText="X5&#xA;" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
                         <Size X="22.0000" Y="44.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="22.7400" Y="-20.7600" />
+                        <Position X="22.7400" Y="-12.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.4548" Y="-0.4152" />
+                        <PrePosition X="0.4548" Y="-0.2400" />
                         <PreSize />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
