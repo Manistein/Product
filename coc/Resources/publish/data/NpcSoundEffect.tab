@@ -1,8 +1,8 @@
-TemplateName	DeathEffectName	AttackEffectName
-BlueArcher	archer_death_05.ogg	arrow_hit_07.ogg
-GreenArcher	archer_death_05.ogg	arrow_hit_07.ogg
-PinkArcher	archer_death_05.ogg	arrow_hit_07.ogg
-BlueBarbarian	barbarian_death_01.ogg	barbarian_hit_stuff4.ogg
-BrownBarbarian	barbarian_death_01.ogg	barbarian_hit_stuff4.ogg
-BlueEnchanter	mage_attack_02v2.ogg	mage_attack_02.ogg
-PurpleEnchanter	mage_attack_02v2.ogg	mage_attack_02.ogg
+TemplateName	DeathEffectName	AttackEffectName	Select	Move
+BlueArcher	archer_death_05.ogg	arrow_hit_07.ogg	archer_select.ogg	archer_move.ogg
+GreenArcher	archer_death_05.ogg	arrow_hit_07.ogg	archer_select.ogg	archer_move.ogg
+PinkArcher	archer_death_05.ogg	arrow_hit_07.ogg	archer_select.ogg	archer_move.ogg
+BlueBarbarian	barbarian_death_01.ogg	barbarian_hit_stuff4.ogg	barbarian_select.ogg	barbarian_move.ogg
+BrownBarbarian	barbarian_death_01.ogg	barbarian_hit_stuff4.ogg	barbarian_select.ogg	barbarian_move.ogg
+BlueEnchanter	barbarian_death_01.ogg	mage_attack_02.ogg	mage_select.ogg	mage_move.ogg
+PurpleEnchanter	barbarian_death_01.ogg	mage_attack_02.ogg	mage_select.ogg	mage_move.ogg
