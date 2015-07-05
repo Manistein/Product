@@ -37,6 +37,7 @@
         <Image Name="EnchanterTowerButtonDisable.png" />
         <Image Name="EnchanterTowerButtonDown.png" />
         <Image Name="EnchanterTowerButtonNormal.png" />
+        <TTF Name="arial.ttf" />
       </RootFolder>
     </Group>
   </SolutionFolder>
