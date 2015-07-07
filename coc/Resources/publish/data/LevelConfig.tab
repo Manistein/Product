@@ -1,0 +1,11 @@
+TemplateName	Level1AttackPower	Level1HP	Level1DisplayFileName	Level1CostTechnologyPoint	Level2AttackPower	Level2HP	Level2DisplayFileName	Level2CostTechnologyPoint	Level3AttackPower	Level3HP	Level3DisplayFileName	Level3CostTechnologyPoint	Level4AttackPower	Level4HP	Level4DisplayFileName	Level4CostTechnologyPoint	Level5AttackPower	Level5HP	Level5DisplayFileName	Level5CostTechnologyPoint
+BlueArcher	27	237	Level1Rank.png	5000	43	379	Level2Rank.png	8000	68	606	Level3Rank.png	12800	108	969	Level4Rank.png	20480	172	1550	Level5Rank.png	32768
+PinkArcher	27	237	Level1Rank.png	5000	43	379	Level2Rank.png	8000	68	606	Level3Rank.png	12800	108	969	Level4Rank.png	20480	172	1550	Level5Rank.png	32768
+BlueBarbarian	12	400	Level1Rank.png	5000	19	640	Level2Rank.png	8000	30	1024	Level3Rank.png	12800	48	1638	Level4Rank.png	20480	76	2620	Level5Rank.png	32768
+BrownBarbarian	12	400	Level1Rank.png	5000	19	640	Level2Rank.png	8000	30	1024	Level3Rank.png	12800	48	1638	Level4Rank.png	20480	76	2620	Level5Rank.png	32768
+BlueEnchanter	48	128	Level1Rank.png	5000	76	204	Level2Rank.png	8000	121	326	Level3Rank.png	12800	193	521	Level4Rank.png	20480	308	833	Level5Rank.png	32768
+PurpleEnchanter	48	128	Level1Rank.png	5000	76	204	Level2Rank.png	8000	121	326	Level3Rank.png	12800	193	521	Level4Rank.png	20480	308	833	Level5Rank.png	32768
+PurpleAnchorTower	67	739	ArcherTower1.png	5000	107	1182	ArcherTower2.png	8000	171	1891	ArcherTower3.png	12800	273	3025	ArcherTower4.png	20480	436	4840	ArcherTower5.png	32768
+PinkAnchorTower	67	739	ArcherTower1.png	5000	107	1182	ArcherTower2.png	8000	171	1891	ArcherTower3.png	12800	273	3025	ArcherTower4.png	20480	436	4840	ArcherTower5.png	32768
+BlueMagicTower	85	300	MagicTower1.png	5000	136	480	MagicTower2.png	8000	217	768	MagicTower3.png	12800	347	1228	MagicTower4.png	20480	555	1964	MagicTower5.png	32768
+PurpleMagicTower	85	300	MagicTower1.png	5000	136	480	MagicTower2.png	8000	217	768	MagicTower3.png	12800	347	1228	MagicTower4.png	20480	555	1964	MagicTower5.png	32768
