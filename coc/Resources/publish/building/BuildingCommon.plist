@@ -4,6 +4,15 @@
     <dict>
         <key>frames</key>
         <dict>
+            <key>ArcherTower0.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{217,1787},{193,245}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>sourceSize</key>
+                <string>{193,245}</string>
+            </dict>
             <key>ArcherTower1.png</key>
             <dict>
                 <key>frame</key>
@@ -157,6 +166,15 @@
                 <key>sourceSize</key>
                 <string>{283,198}</string>
             </dict>
+            <key>MagicTower0.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,1766},{213,222}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>sourceSize</key>
+                <string>{213,222}</string>
+            </dict>
             <key>MagicTower1.png</key>
             <dict>
                 <key>frame</key>
@@ -248,7 +266,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:ca111f65363249c79ea116863a82b6d8:71022d1cfbe789c690d10b61f257bac7:5b11d1a00a19f64b7970a6fe078cc93c$</string>
+            <string>$TexturePacker:SmartUpdate:92d6552ce4da0293268bb96aa647d2c2:7991f5b3130c473759c0019bf3b7cfa0:5b11d1a00a19f64b7970a6fe078cc93c$</string>
             <key>textureFileName</key>
             <string>BuildingCommon.png</string>
         </dict>
