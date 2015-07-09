@@ -5,7 +5,7 @@ BlueBarbarian	12	400	Level1Rank.png	5000	19	640	Level2Rank.png	8000	30	1024	Leve
 BrownBarbarian	12	400	Level1Rank.png	5000	19	640	Level2Rank.png	8000	30	1024	Level3Rank.png	12800	48	1638	Level4Rank.png	20480	76	2620	Level5Rank.png	32768
 BlueEnchanter	48	128	Level1Rank.png	5000	76	204	Level2Rank.png	8000	121	326	Level3Rank.png	12800	193	521	Level4Rank.png	20480	308	833	Level5Rank.png	32768
 PurpleEnchanter	48	128	Level1Rank.png	5000	76	204	Level2Rank.png	8000	121	326	Level3Rank.png	12800	193	521	Level4Rank.png	20480	308	833	Level5Rank.png	32768
-PurpleAnchorTower	67	739	ArcherTower1.png	5000	107	1182	ArcherTower2.png	8000	171	1891	ArcherTower3.png	12800	273	3025	ArcherTower4.png	20480	436	4840	ArcherTower5.png	32768
-PinkAnchorTower	67	739	ArcherTower1.png	5000	107	1182	ArcherTower2.png	8000	171	1891	ArcherTower3.png	12800	273	3025	ArcherTower4.png	20480	436	4840	ArcherTower5.png	32768
-BlueMagicTower	85	300	MagicTower1.png	5000	136	480	MagicTower2.png	8000	217	768	MagicTower3.png	12800	347	1228	MagicTower4.png	20480	555	1964	MagicTower5.png	32768
-PurpleMagicTower	85	300	MagicTower1.png	5000	136	480	MagicTower2.png	8000	217	768	MagicTower3.png	12800	347	1228	MagicTower4.png	20480	555	1964	MagicTower5.png	32768
+PurpleAnchorTower	67	7390	ArcherTower1.png	5000	107	11824	ArcherTower2.png	8000	171	18918	ArcherTower3.png	12800	273	30268	ArcherTower4.png	20480	436	48428	ArcherTower5.png	32768
+PinkAnchorTower	67	7390	ArcherTower1.png	5000	107	11824	ArcherTower2.png	8000	171	18918	ArcherTower3.png	12800	273	30268	ArcherTower4.png	20480	436	48428	ArcherTower5.png	32768
+BlueMagicTower	85	3000	MagicTower1.png	5000	136	4800	MagicTower2.png	8000	217	7680	MagicTower3.png	12800	347	12288	MagicTower4.png	20480	555	19660	MagicTower5.png	32768
+PurpleMagicTower	85	3000	MagicTower1.png	5000	136	4800	MagicTower2.png	8000	217	7680	MagicTower3.png	12800	347	12288	MagicTower4.png	20480	555	19660	MagicTower5.png	32768
