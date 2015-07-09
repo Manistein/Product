@@ -69,7 +69,7 @@
                 <PreSize X="0.1148" Y="0.4647" />
                 <FileData Type="Normal" Path="MiniMapNormal.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Panel_ReinforcementSelectPanel" ActionTag="460613144" Tag="19" IconVisible="False" LeftMargin="870.2505" RightMargin="89.7495" TopMargin="87.0919" BottomMargin="23.9081" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+              <AbstractNodeData Name="Panel_ReinforcementSelectPanel" Visible="False" ActionTag="460613144" Tag="19" IconVisible="False" LeftMargin="870.2505" RightMargin="89.7495" TopMargin="87.0919" BottomMargin="23.9081" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
                 <Size X="320.0000" Y="130.0000" />
                 <Children>
                   <AbstractNodeData Name="Button_SelectEnchanter" ActionTag="-651158784" Tag="23" IconVisible="False" LeftMargin="9.8382" RightMargin="260.1618" TopMargin="30.2412" BottomMargin="49.7588" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
@@ -217,6 +217,32 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
+                  <AbstractNodeData Name="Text_SelectReinforcePanelTitle" ActionTag="-1835309245" Tag="50" IconVisible="False" LeftMargin="136.0339" RightMargin="143.9661" TopMargin="3.5230" BottomMargin="106.4770" FontSize="20" LabelText="增援" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                    <Size X="40.0000" Y="20.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="156.0339" Y="116.4770" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.4876" Y="0.8960" />
+                    <PreSize />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Button_TurnToUpgradePanel" ActionTag="1026243270" Tag="51" IconVisible="False" LeftMargin="298.5120" RightMargin="-3.5120" TopMargin="108.4147" BottomMargin="-3.4147" TouchEnable="True" FontSize="14" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="9" Scale9Height="9" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                    <Size X="25.0000" Y="25.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="311.0120" Y="9.0853" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.9719" Y="0.0699" />
+                    <PreSize X="0.0781" Y="0.1923" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="Normal" Path="EnterNextPanelButtonNormal.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="EnterNextPanelButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="EnterNextPanelButtonNormal.png" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
                 <Position X="870.2505" Y="23.9081" />
@@ -267,6 +293,171 @@
                 <NormalFileData Type="Normal" Path="ReinforceButtonNormal.png" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Panel_UpgradePanel" ActionTag="-1944165775" Tag="25" IconVisible="False" LeftMargin="870.2480" RightMargin="89.7520" TopMargin="88.0919" BottomMargin="22.9081" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                <Size X="320.0000" Y="130.0000" />
+                <Children>
+                  <AbstractNodeData Name="Button_UpgradeEnchanter" ActionTag="310550411" Tag="26" IconVisible="False" LeftMargin="9.8382" RightMargin="260.1618" TopMargin="30.2412" BottomMargin="49.7588" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                    <Size X="50.0000" Y="50.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="34.8382" Y="74.7588" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.1089" Y="0.5751" />
+                    <PreSize X="0.1563" Y="0.3846" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="Normal" Path="EnchanterButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="EnchanterButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="EnchanterButtonNormal.png" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Button_UpgradeArcher" ActionTag="-1996518422" Tag="28" IconVisible="False" LeftMargin="71.4151" RightMargin="198.5849" TopMargin="30.2331" BottomMargin="49.7669" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                    <Size X="50.0000" Y="50.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="96.4151" Y="74.7669" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.3013" Y="0.5751" />
+                    <PreSize X="0.1563" Y="0.3846" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="Normal" Path="ArcherButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="ArcherButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="ArcherButtonNormal.png" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Button_UpgradeBarbarian" ActionTag="1216692115" Tag="30" IconVisible="False" LeftMargin="132.0899" RightMargin="137.9101" TopMargin="30.1666" BottomMargin="49.8334" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                    <Size X="50.0000" Y="50.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="157.0899" Y="74.8334" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.4909" Y="0.5756" />
+                    <PreSize X="0.1563" Y="0.3846" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="Normal" Path="BarbarianButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="BarbarianButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="BarbarianButtonNormal.png" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Button_UpgradeArcherTower" ActionTag="1908798065" Tag="32" IconVisible="False" LeftMargin="191.2603" RightMargin="78.7397" TopMargin="30.1595" BottomMargin="49.8405" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                    <Size X="50.0000" Y="50.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="216.2603" Y="74.8405" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.6758" Y="0.5757" />
+                    <PreSize X="0.1563" Y="0.3846" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="Normal" Path="ArcherTowerButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="ArcherTowerButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="ArcherTowerButtonNormal.png" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Button_UpgradeEnchanterTower" ActionTag="-604784326" Tag="34" IconVisible="False" LeftMargin="251.6426" RightMargin="18.3574" TopMargin="30.6884" BottomMargin="49.3116" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                    <Size X="50.0000" Y="50.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="276.6426" Y="74.3116" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.8645" Y="0.5716" />
+                    <PreSize X="0.1563" Y="0.3846" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="Normal" Path="EnchanterTowerButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="EnchanterTowerButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="EnchanterTowerButtonNormal.png" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Button_TurnToSelectReinforcePanel" ActionTag="-1577129730" Tag="36" IconVisible="False" LeftMargin="0.0441" RightMargin="294.9559" TopMargin="105.2836" BottomMargin="-0.2836" TouchEnable="True" FontSize="14" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="9" Scale9Height="9" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                    <Size X="25.0000" Y="25.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="12.5441" Y="12.2164" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.0392" Y="0.0940" />
+                    <PreSize X="0.0781" Y="0.1923" />
+                    <FontResource Type="Normal" Path="arial.ttf" Plist="" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="Normal" Path="EnterPreviousPanelButtonNormal.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="EnterPreviousPanelButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="EnterPreviousPanelButtonNormal.png" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Text_UpgradeTitle" ActionTag="-1400627780" Tag="43" IconVisible="False" LeftMargin="137.9432" RightMargin="142.0568" TopMargin="1.1964" BottomMargin="108.8037" FontSize="20" LabelText="升级" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                    <Size X="40.0000" Y="20.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="157.9432" Y="118.8037" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.4936" Y="0.9139" />
+                    <PreSize />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Panel_Tips" ActionTag="-1296276348" Tag="47" IconVisible="False" LeftMargin="30.2520" RightMargin="9.7480" TopMargin="101.9000" BottomMargin="-1.9000" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+                    <Size X="280.0000" Y="30.0000" />
+                    <Children>
+                      <AbstractNodeData Name="Text_CostTechnologyPointHeadTips" ActionTag="854619322" Tag="46" IconVisible="False" LeftMargin="7.5320" RightMargin="212.4680" TopMargin="5.6588" BottomMargin="4.3412" FontSize="20" LabelText="您需要" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                        <Size X="60.0000" Y="20.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="37.5320" Y="14.3412" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.1340" Y="0.4780" />
+                        <PreSize />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="Text_NeedTechnologyPoint" ActionTag="-418204914" Tag="48" IconVisible="False" LeftMargin="69.3371" RightMargin="150.6629" TopMargin="5.4892" BottomMargin="4.5108" FontSize="20" LabelText="999999" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                        <Size X="60.0000" Y="20.0000" />
+                        <AnchorPoint ScaleY="0.5000" />
+                        <Position X="69.3371" Y="14.5108" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="0" G="255" B="0" />
+                        <PrePosition X="0.2476" Y="0.4837" />
+                        <PreSize />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="CostTechnologyPointTailTips" ActionTag="-1281653786" Tag="49" IconVisible="False" LeftMargin="129.5596" RightMargin="-9.5596" TopMargin="6.3541" BottomMargin="3.6459" FontSize="20" LabelText="点科技点进行升级" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                        <Size X="160.0000" Y="20.0000" />
+                        <AnchorPoint ScaleY="0.5000" />
+                        <Position X="129.5596" Y="13.6459" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.4627" Y="0.4549" />
+                        <PreSize />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                    </Children>
+                    <AnchorPoint />
+                    <Position X="30.2520" Y="-1.9000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.0945" Y="-0.0146" />
+                    <PreSize X="0.8750" Y="0.2308" />
+                    <SingleColor A="255" R="150" G="200" B="255" />
+                    <FirstColor A="255" R="150" G="200" B="255" />
+                    <EndColor A="255" R="255" G="255" B="255" />
+                    <ColorVector ScaleY="1.0000" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint />
+                <Position X="870.2480" Y="22.9081" />
+                <Scale ScaleX="1.1494" ScaleY="1.1563" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.6799" Y="0.0951" />
+                <PreSize X="0.2500" Y="0.5394" />
+                <SingleColor A="255" R="150" G="200" B="255" />
+                <FirstColor A="255" R="150" G="200" B="255" />
+                <EndColor A="255" R="255" G="255" B="255" />
+                <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint />

@@ -38,6 +38,12 @@
         <Image Name="EnchanterTowerButtonDown.png" />
         <Image Name="EnchanterTowerButtonNormal.png" />
         <TTF Name="arial.ttf" />
+        <Image Name="EnterNextPanelButtonDown.png" />
+        <Image Name="EnterNextPanelButtonNormal.png" />
+        <Image Name="EnterPreviousPanelButtonDown.png" />
+        <Image Name="EnterPreviousPanelButtonNormal.png" />
+        <Image Name="Level1Rank.png" />
+        <TTF Name="HKYuanMini.ttf" />
       </RootFolder>
     </Group>
   </SolutionFolder>
