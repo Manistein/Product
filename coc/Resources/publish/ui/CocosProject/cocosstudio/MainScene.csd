@@ -17,7 +17,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4997" Y="0.4560" />
                 <PreSize X="0.1883" Y="0.7718" />
-                <FileData Type="Normal" Path="GameLogo.png" Plist="" />
+                <FileData Type="Normal" Path="GameScene/GameLogo.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="Image_GameTime" ActionTag="-1994568561" Tag="13" IconVisible="False" LeftMargin="41.2588" RightMargin="1075.7412" TopMargin="62.9767" BottomMargin="138.0233" Scale9Width="163" Scale9Height="40" ctype="ImageViewObjectData">
                 <Size X="163.0000" Y="40.0000" />
@@ -27,7 +27,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.0959" Y="0.6557" />
                 <PreSize X="0.1273" Y="0.1660" />
-                <FileData Type="Normal" Path="GameTime.png" Plist="" />
+                <FileData Type="Normal" Path="GameScene/GameTime.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="Image_TechnologyPoint" ActionTag="-1676805637" Tag="15" IconVisible="False" LeftMargin="236.4366" RightMargin="879.5634" TopMargin="67.9799" BottomMargin="143.0201" Scale9Width="164" Scale9Height="30" ctype="ImageViewObjectData">
                 <Size X="164.0000" Y="30.0000" />
@@ -37,7 +37,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.2488" Y="0.6557" />
                 <PreSize X="0.1281" Y="0.1245" />
-                <FileData Type="Normal" Path="TechnologyPoint.png" Plist="" />
+                <FileData Type="Normal" Path="GameScene/TechnologyPoint.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="Image_ReinforceCoolDownTimeBackground" ActionTag="2070592562" Tag="17" IconVisible="False" LeftMargin="250.8385" RightMargin="901.1615" TopMargin="100.0113" BottomMargin="20.9887" Scale9Width="128" Scale9Height="120" ctype="ImageViewObjectData">
                 <Size X="128.0000" Y="120.0000" />
@@ -47,7 +47,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.2460" Y="0.3361" />
                 <PreSize X="0.1000" Y="0.4979" />
-                <FileData Type="Normal" Path="ReinforceCDTimeBG.png" Plist="" />
+                <FileData Type="Normal" Path="GameScene/ReinforceCDTimeBG.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="Image_ReinforceCoolDownTimeForeground" ActionTag="1387998297" Tag="22" IconVisible="False" LeftMargin="250.8400" RightMargin="901.1600" TopMargin="100.0100" BottomMargin="20.9900" Scale9Width="128" Scale9Height="120" ctype="ImageViewObjectData">
                 <Size X="128.0000" Y="120.0000" />
@@ -57,7 +57,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.2460" Y="0.3361" />
                 <PreSize X="0.1000" Y="0.4979" />
-                <FileData Type="Normal" Path="ReinforceCDTimeFG.png" Plist="" />
+                <FileData Type="Normal" Path="GameScene/ReinforceCDTimeFG.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="Image_MiniMap" ActionTag="-1195626297" Tag="18" IconVisible="False" LeftMargin="48.0287" RightMargin="1084.9713" TopMargin="102.1609" BottomMargin="26.8391" TouchEnable="True" Scale9Width="147" Scale9Height="112" ctype="ImageViewObjectData">
                 <Size X="147.0000" Y="112.0000" />
@@ -67,7 +67,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.0949" Y="0.3437" />
                 <PreSize X="0.1148" Y="0.4647" />
-                <FileData Type="Normal" Path="MiniMapNormal.png" Plist="" />
+                <FileData Type="Normal" Path="GameScene/MiniMapNormal.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="Panel_ReinforcementSelectPanel" Visible="False" ActionTag="460613144" Tag="19" IconVisible="False" LeftMargin="870.2505" RightMargin="89.7495" TopMargin="87.0919" BottomMargin="23.9081" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
                 <Size X="320.0000" Y="130.0000" />
@@ -95,9 +95,9 @@
                     <PrePosition X="0.1089" Y="0.5751" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
-                    <DisabledFileData Type="Normal" Path="EnchanterButtonDisable.png" Plist="" />
-                    <PressedFileData Type="Normal" Path="EnchanterButtonDown.png" Plist="" />
-                    <NormalFileData Type="Normal" Path="EnchanterButtonNormal.png" Plist="" />
+                    <DisabledFileData Type="Normal" Path="GameScene/EnchanterButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="GameScene/EnchanterButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="GameScene/EnchanterButtonNormal.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -124,9 +124,9 @@
                     <PrePosition X="0.3013" Y="0.5751" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
-                    <DisabledFileData Type="Normal" Path="ArcherButtonDisable.png" Plist="" />
-                    <PressedFileData Type="Normal" Path="ArcherButtonDown.png" Plist="" />
-                    <NormalFileData Type="Normal" Path="ArcherButtonNormal.png" Plist="" />
+                    <DisabledFileData Type="Normal" Path="GameScene/ArcherButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="GameScene/ArcherButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="GameScene/ArcherButtonNormal.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -153,9 +153,9 @@
                     <PrePosition X="0.4909" Y="0.5756" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
-                    <DisabledFileData Type="Normal" Path="BarbarianButtonDisable.png" Plist="" />
-                    <PressedFileData Type="Normal" Path="BarbarianButtonDown.png" Plist="" />
-                    <NormalFileData Type="Normal" Path="BarbarianButtonNormal.png" Plist="" />
+                    <DisabledFileData Type="Normal" Path="GameScene/BarbarianButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="GameScene/BarbarianButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="GameScene/BarbarianButtonNormal.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -182,9 +182,9 @@
                     <PrePosition X="0.6758" Y="0.5757" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
-                    <DisabledFileData Type="Normal" Path="ArcherTowerButtonDisable.png" Plist="" />
-                    <PressedFileData Type="Normal" Path="ArcherTowerButtonDown.png" Plist="" />
-                    <NormalFileData Type="Normal" Path="ArcherTowerButtonNormal.png" Plist="" />
+                    <DisabledFileData Type="Normal" Path="GameScene/ArcherTowerButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="GameScene/ArcherTowerButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="GameScene/ArcherTowerButtonNormal.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -211,20 +211,21 @@
                     <PrePosition X="0.8645" Y="0.5716" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
-                    <DisabledFileData Type="Normal" Path="EnchanterTowerButtonDisable.png" Plist="" />
-                    <PressedFileData Type="Normal" Path="EnchanterTowerButtonDown.png" Plist="" />
-                    <NormalFileData Type="Normal" Path="EnchanterTowerButtonNormal.png" Plist="" />
+                    <DisabledFileData Type="Normal" Path="GameScene/EnchanterTowerButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="GameScene/EnchanterTowerButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="GameScene/EnchanterTowerButtonNormal.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Text_SelectReinforcePanelTitle" ActionTag="-1835309245" Tag="50" IconVisible="False" LeftMargin="136.0339" RightMargin="143.9661" TopMargin="3.5230" BottomMargin="106.4770" FontSize="20" LabelText="增援" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
-                    <Size X="40.0000" Y="20.0000" />
+                  <AbstractNodeData Name="Text_SelectReinforcePanelTitle" ActionTag="-1835309245" Tag="50" IconVisible="False" LeftMargin="136.0339" RightMargin="143.9661" TopMargin="2.0230" BottomMargin="104.9770" FontSize="20" LabelText="增援" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                    <Size X="40.0000" Y="23.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="156.0339" Y="116.4770" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4876" Y="0.8960" />
                     <PreSize />
+                    <FontResource Type="Normal" Path="lishu.ttf" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -237,9 +238,9 @@
                     <PrePosition X="0.9719" Y="0.0699" />
                     <PreSize X="0.0781" Y="0.1923" />
                     <TextColor A="255" R="65" G="65" B="70" />
-                    <DisabledFileData Type="Normal" Path="EnterNextPanelButtonNormal.png" Plist="" />
-                    <PressedFileData Type="Normal" Path="EnterNextPanelButtonDown.png" Plist="" />
-                    <NormalFileData Type="Normal" Path="EnterNextPanelButtonNormal.png" Plist="" />
+                    <DisabledFileData Type="Normal" Path="GameScene/EnterNextPanelButtonNormal.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="GameScene/EnterNextPanelButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="GameScene/EnterNextPanelButtonNormal.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -288,9 +289,9 @@
                 <PrePosition X="0.2836" Y="0.1591" />
                 <PreSize X="0.0344" Y="0.0625" />
                 <TextColor A="255" R="0" G="0" B="0" />
-                <DisabledFileData Type="Normal" Path="ReinforceButtonDisable.png" Plist="" />
-                <PressedFileData Type="Normal" Path="ReinforceButtonDown.png" Plist="" />
-                <NormalFileData Type="Normal" Path="ReinforceButtonNormal.png" Plist="" />
+                <DisabledFileData Type="Normal" Path="GameScene/ReinforceButtonDisable.png" Plist="" />
+                <PressedFileData Type="Normal" Path="GameScene/ReinforceButtonDown.png" Plist="" />
+                <NormalFileData Type="Normal" Path="GameScene/ReinforceButtonNormal.png" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -306,9 +307,9 @@
                     <PrePosition X="0.1089" Y="0.5751" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
-                    <DisabledFileData Type="Normal" Path="EnchanterButtonDisable.png" Plist="" />
-                    <PressedFileData Type="Normal" Path="EnchanterButtonDown.png" Plist="" />
-                    <NormalFileData Type="Normal" Path="EnchanterButtonNormal.png" Plist="" />
+                    <DisabledFileData Type="Normal" Path="GameScene/EnchanterButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="GameScene/EnchanterButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="GameScene/EnchanterButtonNormal.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -321,9 +322,9 @@
                     <PrePosition X="0.3013" Y="0.5751" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
-                    <DisabledFileData Type="Normal" Path="ArcherButtonDisable.png" Plist="" />
-                    <PressedFileData Type="Normal" Path="ArcherButtonDown.png" Plist="" />
-                    <NormalFileData Type="Normal" Path="ArcherButtonNormal.png" Plist="" />
+                    <DisabledFileData Type="Normal" Path="GameScene/ArcherButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="GameScene/ArcherButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="GameScene/ArcherButtonNormal.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -336,9 +337,9 @@
                     <PrePosition X="0.4909" Y="0.5756" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
-                    <DisabledFileData Type="Normal" Path="BarbarianButtonDisable.png" Plist="" />
-                    <PressedFileData Type="Normal" Path="BarbarianButtonDown.png" Plist="" />
-                    <NormalFileData Type="Normal" Path="BarbarianButtonNormal.png" Plist="" />
+                    <DisabledFileData Type="Normal" Path="GameScene/BarbarianButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="GameScene/BarbarianButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="GameScene/BarbarianButtonNormal.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -351,9 +352,9 @@
                     <PrePosition X="0.6758" Y="0.5757" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
-                    <DisabledFileData Type="Normal" Path="ArcherTowerButtonDisable.png" Plist="" />
-                    <PressedFileData Type="Normal" Path="ArcherTowerButtonDown.png" Plist="" />
-                    <NormalFileData Type="Normal" Path="ArcherTowerButtonNormal.png" Plist="" />
+                    <DisabledFileData Type="Normal" Path="GameScene/ArcherTowerButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="GameScene/ArcherTowerButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="GameScene/ArcherTowerButtonNormal.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -366,9 +367,9 @@
                     <PrePosition X="0.8645" Y="0.5716" />
                     <PreSize X="0.1563" Y="0.3846" />
                     <TextColor A="255" R="65" G="65" B="70" />
-                    <DisabledFileData Type="Normal" Path="EnchanterTowerButtonDisable.png" Plist="" />
-                    <PressedFileData Type="Normal" Path="EnchanterTowerButtonDown.png" Plist="" />
-                    <NormalFileData Type="Normal" Path="EnchanterTowerButtonNormal.png" Plist="" />
+                    <DisabledFileData Type="Normal" Path="GameScene/EnchanterTowerButtonDisable.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="GameScene/EnchanterTowerButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="GameScene/EnchanterTowerButtonNormal.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -380,58 +381,61 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.0392" Y="0.0940" />
                     <PreSize X="0.0781" Y="0.1923" />
-                    <FontResource Type="Normal" Path="arial.ttf" Plist="" />
                     <TextColor A="255" R="65" G="65" B="70" />
-                    <DisabledFileData Type="Normal" Path="EnterPreviousPanelButtonNormal.png" Plist="" />
-                    <PressedFileData Type="Normal" Path="EnterPreviousPanelButtonDown.png" Plist="" />
-                    <NormalFileData Type="Normal" Path="EnterPreviousPanelButtonNormal.png" Plist="" />
+                    <DisabledFileData Type="Normal" Path="GameScene/EnterPreviousPanelButtonNormal.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="GameScene/EnterPreviousPanelButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="GameScene/EnterPreviousPanelButtonNormal.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Text_UpgradeTitle" ActionTag="-1400627780" Tag="43" IconVisible="False" LeftMargin="137.9432" RightMargin="142.0568" TopMargin="1.1964" BottomMargin="108.8037" FontSize="20" LabelText="升级" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
-                    <Size X="40.0000" Y="20.0000" />
+                  <AbstractNodeData Name="Text_UpgradeTitle" ActionTag="-1400627780" Tag="43" IconVisible="False" LeftMargin="137.9432" RightMargin="142.0568" TopMargin="-0.3037" BottomMargin="107.3037" FontSize="20" LabelText="升级" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                    <Size X="40.0000" Y="23.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="157.9432" Y="118.8037" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4936" Y="0.9139" />
                     <PreSize />
+                    <FontResource Type="Normal" Path="lishu.ttf" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="Panel_Tips" ActionTag="-1296276348" Tag="47" IconVisible="False" LeftMargin="30.2520" RightMargin="9.7480" TopMargin="101.9000" BottomMargin="-1.9000" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
                     <Size X="280.0000" Y="30.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_CostTechnologyPointHeadTips" ActionTag="854619322" Tag="46" IconVisible="False" LeftMargin="7.5320" RightMargin="212.4680" TopMargin="5.6588" BottomMargin="4.3412" FontSize="20" LabelText="您需要" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
-                        <Size X="60.0000" Y="20.0000" />
+                      <AbstractNodeData Name="Text_CostTechnologyPointHeadTips" ActionTag="854619322" Tag="46" IconVisible="False" LeftMargin="7.5320" RightMargin="212.4680" TopMargin="4.1588" BottomMargin="2.8412" FontSize="20" LabelText="您需要" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                        <Size X="60.0000" Y="23.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="37.5320" Y="14.3412" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.1340" Y="0.4780" />
                         <PreSize />
+                        <FontResource Type="Normal" Path="lishu.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="Text_NeedTechnologyPoint" ActionTag="-418204914" Tag="48" IconVisible="False" LeftMargin="69.3371" RightMargin="150.6629" TopMargin="5.4892" BottomMargin="4.5108" FontSize="20" LabelText="999999" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
-                        <Size X="60.0000" Y="20.0000" />
+                      <AbstractNodeData Name="Text_NeedTechnologyPoint" ActionTag="-418204914" Tag="48" IconVisible="False" LeftMargin="69.3371" RightMargin="150.6629" TopMargin="3.9892" BottomMargin="3.0108" FontSize="20" LabelText="999999" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                        <Size X="60.0000" Y="23.0000" />
                         <AnchorPoint ScaleY="0.5000" />
                         <Position X="69.3371" Y="14.5108" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="0" G="255" B="0" />
                         <PrePosition X="0.2476" Y="0.4837" />
                         <PreSize />
+                        <FontResource Type="Normal" Path="lishu.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="CostTechnologyPointTailTips" ActionTag="-1281653786" Tag="49" IconVisible="False" LeftMargin="129.5596" RightMargin="-9.5596" TopMargin="6.3541" BottomMargin="3.6459" FontSize="20" LabelText="点科技点进行升级" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
-                        <Size X="160.0000" Y="20.0000" />
+                      <AbstractNodeData Name="CostTechnologyPointTailTips" ActionTag="-1281653786" Tag="49" IconVisible="False" LeftMargin="129.5596" RightMargin="-9.5596" TopMargin="4.8541" BottomMargin="2.1459" FontSize="20" LabelText="点科技点进行升级" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                        <Size X="160.0000" Y="23.0000" />
                         <AnchorPoint ScaleY="0.5000" />
                         <Position X="129.5596" Y="13.6459" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.4627" Y="0.4549" />
                         <PreSize />
+                        <FontResource Type="Normal" Path="lishu.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
@@ -466,7 +470,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.0009" Y="-0.0081" />
             <PreSize X="1.0000" Y="0.3347" />
-            <FileData Type="Normal" Path="GameMainUIBackground.png" Plist="" />
+            <FileData Type="Normal" Path="GameScene/GameMainUIBackground.png" Plist="" />
             <SingleColor A="255" R="150" G="200" B="255" />
             <FirstColor A="255" R="150" G="200" B="255" />
             <EndColor A="255" R="255" G="255" B="255" />
