@@ -29,8 +29,9 @@
         <OpenedDocuments>
           <FilePathData Path="MainScene.csd" />
           <FilePathData Path="MenuScene.csd" />
+          <FilePathData Path="SelectStageScene.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="MenuScene.csd" />
+        <ActiveDocument Path="SelectStageScene.csd" />
       </Value>
     </Item>
   </Properties>

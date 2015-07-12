@@ -74,6 +74,29 @@
           <Image Name="Dialog.png" />
         </Folder>
         <TTF Name="lishu.ttf" />
+        <Project Name="SelectStageScene.csd" Type="Scene" />
+        <Folder Name="SelectStageScene">
+          <Image Name="bg2.jpg" />
+          <Image Name="EasyButtonDown.png" />
+          <Image Name="EasyButtonNormal.png" />
+          <Image Name="EasyButtonOver.png" />
+          <Image Name="HardButtonDown.png" />
+          <Image Name="HardButtonNormal.png" />
+          <Image Name="HardButtonOver.png" />
+          <Image Name="NormalButtonDown.png" />
+          <Image Name="NormalButtonNormal.png" />
+          <Image Name="NormalButtonOver.png" />
+          <Image Name="SelectStageMapBG.jpg" />
+          <Image Name="StageBorder.png" />
+          <Image Name="StageTips.png" />
+          <Image Name="StartGameButtonDown.png" />
+          <Image Name="StartGameButtonNormal.png" />
+          <Image Name="StartGameButtonOver.png" />
+          <Image Name="UISample.jpg" />
+          <Image Name="StageButtonDisable.png" />
+          <Image Name="StageButtonDown.png" />
+          <Image Name="StageButtonNormal.png" />
+        </Folder>
       </RootFolder>
     </Group>
   </SolutionFolder>
