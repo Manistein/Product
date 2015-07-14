@@ -92,7 +92,7 @@
                     <NodeNormalFileData Type="Normal" Path="SelectStageScene/StageButtonDown.png" Plist="" />
                     <NodeDisableFileData Type="Normal" Path="SelectStageScene/StageButtonDown.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="CheckBox_Stage6" ActionTag="-1521546163" Tag="67" IconVisible="False" LeftMargin="776.1345" RightMargin="459.8655" TopMargin="1203.0349" BottomMargin="302.9650" TouchEnable="True" DisplayState="False" ctype="CheckBoxObjectData">
+                  <AbstractNodeData Name="CheckBox_Stage6" ActionTag="-1521546163" Tag="67" IconVisible="False" LeftMargin="776.1345" RightMargin="459.8655" TopMargin="1203.0350" BottomMargin="302.9650" TouchEnable="True" DisplayState="False" ctype="CheckBoxObjectData">
                     <Size X="44.0000" Y="44.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="798.1345" Y="324.9650" />
