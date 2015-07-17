@@ -463,6 +463,30 @@
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
+              <AbstractNodeData Name="Text_WinTips" ActionTag="542835518" Tag="58" IconVisible="False" LeftMargin="476.2636" RightMargin="443.7364" TopMargin="-258.2729" BottomMargin="417.2729" FontSize="72" LabelText="你赢了！！" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                <Size X="360.0000" Y="82.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="656.2636" Y="458.2729" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5127" Y="1.9015" />
+                <PreSize />
+                <FontResource Type="Normal" Path="lishu.ttf" Plist="" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Text_LostTips" ActionTag="-925488590" Tag="59" IconVisible="False" LeftMargin="472.1492" RightMargin="447.8508" TopMargin="-258.1255" BottomMargin="417.1255" FontSize="72" LabelText="你输了！！" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                <Size X="360.0000" Y="82.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="652.1492" Y="458.1255" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5095" Y="1.9009" />
+                <PreSize />
+                <FontResource Type="Normal" Path="lishu.ttf" Plist="" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
             </Children>
             <AnchorPoint />
             <Position X="1.1954" Y="-5.8046" />
