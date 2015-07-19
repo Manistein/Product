@@ -207,7 +207,7 @@
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="Text_StageTips" ActionTag="1625815152" Tag="73" IconVisible="False" LeftMargin="22.2148" RightMargin="4.7852" TopMargin="188.8034" BottomMargin="200.1966" IsCustomSize="True" FontSize="24" LabelText=" 这是一张神奇的地图" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                      <AbstractNodeData Name="Text_StageTips" ActionTag="1625815152" Tag="73" IconVisible="False" LeftMargin="22.2148" RightMargin="4.7852" TopMargin="188.8034" BottomMargin="200.1966" IsCustomSize="True" FontSize="24" LabelText="" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
                         <Size X="280.0000" Y="300.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="162.2148" Y="350.1966" />
