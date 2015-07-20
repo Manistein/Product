@@ -69,7 +69,7 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Panel_SettingDialog" ActionTag="1582691954" Tag="43" IconVisible="False" TouchEnable="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="762" Scale9Height="518" ctype="PanelObjectData">
+              <AbstractNodeData Name="Panel_SettingDialog" ActionTag="1582691954" Tag="43" IconVisible="False" TouchEnable="True" BackColorAlpha="128" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="762" Scale9Height="518" ctype="PanelObjectData">
                 <Size X="1280.0000" Y="720.0000" />
                 <Children>
                   <AbstractNodeData Name="Button_CloseDialog" ActionTag="-694796086" Tag="44" IconVisible="False" LeftMargin="944.2419" RightMargin="292.7581" TopMargin="122.0471" BottomMargin="548.9529" TouchEnable="True" FontSize="14" LeftEage="14" RightEage="14" TopEage="11" BottomEage="11" Scale9OriginX="14" Scale9OriginY="11" Scale9Width="15" Scale9Height="27" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
@@ -159,12 +159,12 @@
                 <PrePosition />
                 <PreSize X="1.0000" Y="1.0000" />
                 <FileData Type="Normal" Path="MenuScene/Dialog.png" Plist="" />
-                <SingleColor A="255" R="150" G="200" B="255" />
+                <SingleColor A="255" R="0" G="0" B="0" />
                 <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Panel_DeveloperIntroduce" Visible="False" ActionTag="298259052" Tag="50" IconVisible="False" TouchEnable="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="762" Scale9Height="518" ctype="PanelObjectData">
+              <AbstractNodeData Name="Panel_DeveloperIntroduce" Visible="False" ActionTag="298259052" Tag="50" IconVisible="False" TouchEnable="True" BackColorAlpha="127" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="762" Scale9Height="518" ctype="PanelObjectData">
                 <Size X="1280.0000" Y="720.0000" />
                 <Children>
                   <AbstractNodeData Name="Button_DialogClose" ActionTag="-1968191445" Tag="51" IconVisible="False" LeftMargin="930.1889" RightMargin="306.8111" TopMargin="122.1564" BottomMargin="548.8436" TouchEnable="True" FontSize="14" LeftEage="14" RightEage="14" TopEage="11" BottomEage="11" Scale9OriginX="14" Scale9OriginY="11" Scale9Width="15" Scale9Height="27" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
@@ -214,7 +214,7 @@
                 <PrePosition />
                 <PreSize X="1.0000" Y="1.0000" />
                 <FileData Type="Normal" Path="MenuScene/Dialog.png" Plist="" />
-                <SingleColor A="255" R="150" G="200" B="255" />
+                <SingleColor A="255" R="0" G="0" B="0" />
                 <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />

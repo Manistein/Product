@@ -516,7 +516,7 @@
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Panel_Option" Visible="False" ActionTag="-440199649" Tag="77" IconVisible="False" TouchEnable="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="265" Scale9Height="424" ctype="PanelObjectData">
+          <AbstractNodeData Name="Panel_Option" ActionTag="-440199649" Tag="77" IconVisible="False" TouchEnable="True" BackColorAlpha="127" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="265" Scale9Height="424" ctype="PanelObjectData">
             <Size X="1280.0000" Y="720.0000" />
             <Children>
               <AbstractNodeData Name="Button_Continue" ActionTag="-2015118619" Tag="78" IconVisible="False" LeftMargin="529.9999" RightMargin="534.0001" TopMargin="210.5000" BottomMargin="446.5000" TouchEnable="True" FontSize="24" ButtonText="继续" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="186" Scale9Height="41" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
@@ -591,7 +591,7 @@
             <PrePosition />
             <PreSize X="1.0000" Y="1.0000" />
             <FileData Type="Normal" Path="GameScene/OptionBackground.png" Plist="" />
-            <SingleColor A="255" R="150" G="200" B="255" />
+            <SingleColor A="255" R="0" G="0" B="0" />
             <FirstColor A="255" R="150" G="200" B="255" />
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
