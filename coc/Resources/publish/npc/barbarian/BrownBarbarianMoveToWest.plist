@@ -9,7 +9,7 @@
                 <key>frame</key>
                 <string>{{2,82},{101,70}}</string>
                 <key>offset</key>
-                <string>{12,0}</string>
+                <string>{-12,0}</string>
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
@@ -18,7 +18,7 @@
                 <key>frame</key>
                 <string>{{2,2},{87,78}}</string>
                 <key>offset</key>
-                <string>{17,1}</string>
+                <string>{-18,1}</string>
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
@@ -27,7 +27,7 @@
                 <key>frame</key>
                 <string>{{75,166},{71,80}}</string>
                 <key>offset</key>
-                <string>{12,0}</string>
+                <string>{-12,0}</string>
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
@@ -36,7 +36,7 @@
                 <key>frame</key>
                 <string>{{2,154},{71,80}}</string>
                 <key>offset</key>
-                <string>{4,1}</string>
+                <string>{-4,1}</string>
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
@@ -45,7 +45,7 @@
                 <key>frame</key>
                 <string>{{148,166},{69,80}}</string>
                 <key>offset</key>
-                <string>{5,0}</string>
+                <string>{-5,0}</string>
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
@@ -54,7 +54,7 @@
                 <key>frame</key>
                 <string>{{180,80},{69,84}}</string>
                 <key>offset</key>
-                <string>{7,-2}</string>
+                <string>{-8,-2}</string>
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
@@ -63,7 +63,7 @@
                 <key>frame</key>
                 <string>{{105,80},{73,84}}</string>
                 <key>offset</key>
-                <string>{13,-2}</string>
+                <string>{-13,-2}</string>
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
@@ -72,7 +72,7 @@
                 <key>frame</key>
                 <string>{{91,2},{91,76}}</string>
                 <key>offset</key>
-                <string>{16,0}</string>
+                <string>{-16,0}</string>
                 <key>sourceSize</key>
                 <string>{161,150}</string>
             </dict>
@@ -86,7 +86,7 @@
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:fa5d20f61bca0aca00db780e18a7f28a:a73d77e70c7dad43b460a41861fcf11a:b6cee5e496a6b8adc9166dbfe76327da$</string>
+            <string>$TexturePacker:SmartUpdate:6e2084a6c9066893687f8f6e26f6abf7:e2d74eda28a8d5c7508aae717c9cfd4f:e06a4e741164132e39d6645f4465184f$</string>
             <key>textureFileName</key>
             <string>BrownBarbarianMoveToWest.png</string>
         </dict>
