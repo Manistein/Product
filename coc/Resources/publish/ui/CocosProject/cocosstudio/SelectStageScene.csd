@@ -150,42 +150,42 @@
               <AbstractNodeData Name="Panel_FrontUI" ActionTag="-1129731955" Tag="57" IconVisible="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1280" Scale9Height="720" ctype="PanelObjectData">
                 <Size X="1280.0000" Y="720.0000" />
                 <Children>
-                  <AbstractNodeData Name="CheckBox_EasyLevel" ActionTag="1499634935" Tag="58" IconVisible="False" LeftMargin="67.7194" RightMargin="1077.2806" TopMargin="604.0826" BottomMargin="48.9174" TouchEnable="True" ctype="CheckBoxObjectData">
-                    <Size X="135.0000" Y="67.0000" />
+                  <AbstractNodeData Name="CheckBox_EasyLevel" ActionTag="1499634935" Tag="58" IconVisible="False" LeftMargin="246.7217" RightMargin="908.2783" TopMargin="609.0826" BottomMargin="53.9174" TouchEnable="True" ctype="CheckBoxObjectData">
+                    <Size X="125.0000" Y="57.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="135.2194" Y="82.4174" />
+                    <Position X="309.2217" Y="82.4174" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.1056" Y="0.1145" />
-                    <PreSize X="0.1055" Y="0.0931" />
+                    <PrePosition X="0.2416" Y="0.1145" />
+                    <PreSize X="0.0977" Y="0.0792" />
                     <NormalBackFileData Type="Normal" Path="SelectStageScene/EasyButtonNormal.png" Plist="" />
                     <PressedBackFileData Type="Normal" Path="SelectStageScene/EasyButtonDown.png" Plist="" />
                     <DisableBackFileData Type="Normal" Path="SelectStageScene/EasyButtonOver.png" Plist="" />
                     <NodeNormalFileData Type="Normal" Path="SelectStageScene/EasyButtonDown.png" Plist="" />
                     <NodeDisableFileData Type="Normal" Path="SelectStageScene/EasyButtonOver.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="CheckBox_NormalLevel" ActionTag="1199985426" Tag="59" IconVisible="False" LeftMargin="217.4081" RightMargin="927.5919" TopMargin="605.9756" BottomMargin="47.0244" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
-                    <Size X="135.0000" Y="67.0000" />
+                  <AbstractNodeData Name="CheckBox_NormalLevel" ActionTag="1199985426" Tag="59" IconVisible="False" LeftMargin="396.4068" RightMargin="758.5932" TopMargin="609.0800" BottomMargin="53.9200" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
+                    <Size X="125.0000" Y="57.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="284.9081" Y="80.5244" />
+                    <Position X="458.9068" Y="82.4200" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.2226" Y="0.1118" />
-                    <PreSize X="0.1055" Y="0.0931" />
+                    <PrePosition X="0.3585" Y="0.1145" />
+                    <PreSize X="0.0977" Y="0.0792" />
                     <NormalBackFileData Type="Normal" Path="SelectStageScene/NormalButtonNormal.png" Plist="" />
                     <PressedBackFileData Type="Normal" Path="SelectStageScene/NormalButtonDown.png" Plist="" />
                     <DisableBackFileData Type="Normal" Path="SelectStageScene/NormalButtonOver.png" Plist="" />
                     <NodeNormalFileData Type="Normal" Path="SelectStageScene/NormalButtonDown.png" Plist="" />
                     <NodeDisableFileData Type="Normal" Path="SelectStageScene/NormalButtonOver.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="CheckBox_HardLevel" ActionTag="-54214660" Tag="60" IconVisible="False" LeftMargin="365.3143" RightMargin="779.6857" TopMargin="605.8622" BottomMargin="47.1378" TouchEnable="True" ctype="CheckBoxObjectData">
-                    <Size X="135.0000" Y="67.0000" />
+                  <AbstractNodeData Name="CheckBox_HardLevel" ActionTag="-54214660" Tag="60" IconVisible="False" LeftMargin="544.3115" RightMargin="610.6885" TopMargin="609.0800" BottomMargin="53.9200" TouchEnable="True" ctype="CheckBoxObjectData">
+                    <Size X="125.0000" Y="57.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="432.8143" Y="80.6378" />
+                    <Position X="606.8115" Y="82.4200" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.3381" Y="0.1120" />
-                    <PreSize X="0.1055" Y="0.0931" />
+                    <PrePosition X="0.4741" Y="0.1145" />
+                    <PreSize X="0.0977" Y="0.0792" />
                     <NormalBackFileData Type="Normal" Path="SelectStageScene/HardButtonNormal.png" Plist="" />
                     <PressedBackFileData Type="Normal" Path="SelectStageScene/HardButtonDown.png" Plist="" />
                     <DisableBackFileData Type="Normal" Path="SelectStageScene/HardButtonOver.png" Plist="" />
@@ -195,13 +195,13 @@
                   <AbstractNodeData Name="Image_StageTips" ActionTag="-1868754911" Tag="70" IconVisible="False" LeftMargin="916.8446" RightMargin="56.1554" TopMargin="1.2717" BottomMargin="29.7283" Scale9Width="307" Scale9Height="689" ctype="ImageViewObjectData">
                     <Size X="307.0000" Y="689.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_TipsTile" ActionTag="1023477888" Tag="72" IconVisible="False" LeftMargin="80.3007" RightMargin="81.6993" TopMargin="101.7770" BottomMargin="546.2230" FontSize="36" LabelText="战斗简介" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                      <AbstractNodeData Name="Text_TipsTile" ActionTag="1023477888" Tag="72" IconVisible="False" LeftMargin="80.3009" RightMargin="81.6991" TopMargin="112.7770" BottomMargin="535.2230" FontSize="36" LabelText="战斗简介" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
                         <Size X="145.0000" Y="41.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="152.8007" Y="566.7230" />
+                        <Position X="152.8009" Y="555.7230" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.4977" Y="0.8225" />
+                        <PrePosition X="0.4977" Y="0.8066" />
                         <PreSize />
                         <FontResource Type="Normal" Path="lishu.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
@@ -250,6 +250,21 @@
                     <DisabledFileData Type="Normal" Path="SelectStageScene/StartGameButtonOver.png" Plist="" />
                     <PressedFileData Type="Normal" Path="SelectStageScene/StartGameButtonDown.png" Plist="" />
                     <NormalFileData Type="Normal" Path="SelectStageScene/StartGameButtonNormal.png" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Button_BackToMenuScene" ActionTag="-942405323" Tag="66" IconVisible="False" LeftMargin="72.6800" RightMargin="1082.3201" TopMargin="607.0800" BottomMargin="55.9200" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="95" Scale9Height="35" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                    <Size X="125.0000" Y="57.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="135.1800" Y="84.4200" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.1056" Y="0.1172" />
+                    <PreSize X="0.0977" Y="0.0792" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="Normal" Path="SelectStageScene/BackButtonOver.png" Plist="" />
+                    <PressedFileData Type="Normal" Path="SelectStageScene/BackButtonDown.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="SelectStageScene/BackButtonNormal.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>

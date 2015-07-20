@@ -100,6 +100,9 @@
           <Image Name="StageButtonDisable.png" />
           <Image Name="StageButtonDown.png" />
           <Image Name="StageButtonNormal.png" />
+          <Image Name="BackButtonDown.png" />
+          <Image Name="BackButtonNormal.png" />
+          <Image Name="BackButtonOver.png" />
         </Folder>
       </RootFolder>
     </Group>
