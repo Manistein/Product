@@ -487,6 +487,22 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
+              <AbstractNodeData Name="Button_OpenOptionPanel" ActionTag="-1482176109" Tag="82" IconVisible="False" LeftMargin="1121.1952" RightMargin="8.8048" TopMargin="-478.7128" BottomMargin="674.7128" TouchEnable="True" FontSize="24" ButtonText="菜单" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="186" Scale9Height="41" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                <Size X="150.0000" Y="45.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="1196.1952" Y="697.2128" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.9345" Y="2.8930" />
+                <PreSize X="0.1172" Y="0.1867" />
+                <FontResource Type="Normal" Path="lishu.ttf" Plist="" />
+                <TextColor A="255" R="255" G="255" B="255" />
+                <DisabledFileData Type="Normal" Path="GameScene/ButtonOver.png" Plist="" />
+                <PressedFileData Type="Normal" Path="GameScene/ButtonDown.png" Plist="" />
+                <NormalFileData Type="Normal" Path="GameScene/ButtonNormal.png" Plist="" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
             </Children>
             <AnchorPoint />
             <Position X="1.1954" Y="-5.8046" />
@@ -495,6 +511,86 @@
             <PrePosition X="0.0009" Y="-0.0081" />
             <PreSize X="1.0000" Y="0.3347" />
             <FileData Type="Normal" Path="GameScene/GameMainUIBackground.png" Plist="" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_Option" Visible="False" ActionTag="-440199649" Tag="77" IconVisible="False" TouchEnable="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="265" Scale9Height="424" ctype="PanelObjectData">
+            <Size X="1280.0000" Y="720.0000" />
+            <Children>
+              <AbstractNodeData Name="Button_Continue" ActionTag="-2015118619" Tag="78" IconVisible="False" LeftMargin="529.9999" RightMargin="534.0001" TopMargin="210.5000" BottomMargin="446.5000" TouchEnable="True" FontSize="24" ButtonText="继续" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="186" Scale9Height="41" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                <Size X="216.0000" Y="63.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="637.9999" Y="478.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4984" Y="0.6639" />
+                <PreSize X="0.8151" Y="0.1486" />
+                <FontResource Type="Normal" Path="lishu.ttf" Plist="" />
+                <TextColor A="255" R="255" G="255" B="255" />
+                <DisabledFileData Type="Normal" Path="GameScene/ButtonOver.png" Plist="" />
+                <PressedFileData Type="Normal" Path="GameScene/ButtonDown.png" Plist="" />
+                <NormalFileData Type="Normal" Path="GameScene/ButtonNormal.png" Plist="" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Button_GotoSelectStageScene" ActionTag="1950704090" Tag="79" IconVisible="False" LeftMargin="529.3531" RightMargin="534.6469" TopMargin="287.7468" BottomMargin="369.2532" TouchEnable="True" FontSize="24" ButtonText="返回选关界面" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="186" Scale9Height="41" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                <Size X="216.0000" Y="63.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="637.3531" Y="400.7532" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4979" Y="0.5566" />
+                <PreSize X="0.8151" Y="0.1486" />
+                <FontResource Type="Normal" Path="lishu.ttf" Plist="" />
+                <TextColor A="255" R="255" G="255" B="255" />
+                <DisabledFileData Type="Normal" Path="GameScene/ButtonOver.png" Plist="" />
+                <PressedFileData Type="Normal" Path="GameScene/ButtonDown.png" Plist="" />
+                <NormalFileData Type="Normal" Path="GameScene/ButtonNormal.png" Plist="" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Button_GotoMenuScene" ActionTag="1963797546" Tag="80" IconVisible="False" LeftMargin="530.5657" RightMargin="533.4343" TopMargin="363.1523" BottomMargin="293.8477" TouchEnable="True" FontSize="24" ButtonText="返回菜单界面" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="186" Scale9Height="41" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                <Size X="216.0000" Y="63.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="638.5657" Y="325.3477" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4989" Y="0.4519" />
+                <PreSize X="0.8151" Y="0.1486" />
+                <FontResource Type="Normal" Path="lishu.ttf" Plist="" />
+                <TextColor A="255" R="255" G="255" B="255" />
+                <DisabledFileData Type="Normal" Path="GameScene/ButtonOver.png" Plist="" />
+                <PressedFileData Type="Normal" Path="GameScene/ButtonDown.png" Plist="" />
+                <NormalFileData Type="Normal" Path="GameScene/ButtonNormal.png" Plist="" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Button_BackToWindows" ActionTag="-1704455720" Tag="81" IconVisible="False" LeftMargin="533.4833" RightMargin="530.5167" TopMargin="463.7389" BottomMargin="193.2611" TouchEnable="True" FontSize="24" ButtonText="返回Windows" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="186" Scale9Height="41" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="ButtonObjectData">
+                <Size X="216.0000" Y="63.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="641.4833" Y="224.7611" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5012" Y="0.3122" />
+                <PreSize X="0.8151" Y="0.1486" />
+                <FontResource Type="Normal" Path="lishu.ttf" Plist="" />
+                <TextColor A="255" R="255" G="255" B="255" />
+                <DisabledFileData Type="Normal" Path="GameScene/ButtonOver.png" Plist="" />
+                <PressedFileData Type="Normal" Path="GameScene/ButtonDown.png" Plist="" />
+                <NormalFileData Type="Normal" Path="GameScene/ButtonNormal.png" Plist="" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint />
+            <Position />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="1.0000" Y="1.0000" />
+            <FileData Type="Normal" Path="GameScene/OptionBackground.png" Plist="" />
             <SingleColor A="255" R="150" G="200" B="255" />
             <FirstColor A="255" R="150" G="200" B="255" />
             <EndColor A="255" R="255" G="255" B="255" />

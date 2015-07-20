@@ -48,6 +48,10 @@
           <Image Name="Spark.png" />
           <Image Name="TechnologyPoint.png" />
           <Image Name="TurnToNextPageNormal.png" />
+          <Image Name="ButtonDown.png" />
+          <Image Name="ButtonNormal.png" />
+          <Image Name="ButtonOver.png" />
+          <Image Name="OptionBackground.png" />
         </Folder>
         <TTF Name="arial.ttf" />
         <Folder Name="MenuScene">
