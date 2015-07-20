@@ -24,6 +24,12 @@
  <tileset firstgid="8" name="Enchanter" tilewidth="120" tileheight="100">
   <image source="../../characters/3294.0.png" width="120" height="100"/>
  </tileset>
+ <tileset firstgid="9" name="PlayerPillbox" tilewidth="278" tileheight="320">
+  <image source="PlayerPillbox.png" width="278" height="320"/>
+ </tileset>
+ <tileset firstgid="10" name="AIPillbox" tilewidth="273" tileheight="317">
+  <image source="AIPillbox.png" width="273" height="317"/>
+ </tileset>
  <layer name="backgroundLayer" width="50" height="50">
   <properties>
    <property name="cc_vertexz" value="-1000"/>
@@ -5057,6 +5063,10 @@
   <object name="PinkAnchorTower" gid="4" x="4759.18" y="806.035"/>
   <object name="PinkAnchorTower" gid="4" x="4731.02" y="1040.25"/>
   <object name="PinkAnchorTower" gid="4" x="5471.3" y="1154.52"/>
+  <object name="AIPillbox" gid="10" x="4560" y="4800"/>
+  <object name="AIPillbox" gid="10" x="2160" y="2280"/>
+  <object name="AIPillbox" gid="10" x="960" y="2760"/>
+  <object name="AIPillbox" gid="10" x="3000" y="5640"/>
  </objectgroup>
  <objectgroup name="aiNpcEditLayer">
   <object name="PinkArcher" gid="6" x="4320" y="600"/>
