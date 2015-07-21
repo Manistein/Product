@@ -33,6 +33,9 @@
  <tileset firstgid="11" name="RedBalloon" tilewidth="158" tileheight="211">
   <image source="../../characters/468.0.png" width="158" height="211"/>
  </tileset>
+ <tileset firstgid="12" name="Garg" tilewidth="64" tileheight="85">
+  <image source="../../characters/1810.0.png" width="64" height="85"/>
+ </tileset>
  <layer name="backgroundLayer" width="50" height="50">
   <properties>
    <property name="cc_vertexz" value="-1000"/>
@@ -5089,5 +5092,19 @@
   <object name="RedBalloon" gid="11" x="840" y="5640"/>
   <object name="RedBalloon" gid="11" x="840" y="5280"/>
   <object name="RedBalloon" gid="11" x="960" y="4920"/>
+  <object name="BlueGarg" gid="12" x="1320" y="5640"/>
+  <object name="BlueGarg" gid="12" x="1320" y="5520"/>
+  <object name="BlueGarg" gid="12" x="1320" y="5400"/>
+  <object name="BlueGarg" gid="12" x="1320" y="5280"/>
+  <object name="BlueGarg" gid="12" x="1320" y="5160"/>
+  <object name="BlueGarg" gid="12" x="1320" y="5040"/>
+  <object name="BlueGarg" gid="12" x="1440" y="4920"/>
+  <object name="BlueGarg" gid="12" x="1320" y="4920"/>
+  <object name="BlueGarg" gid="12" x="1440" y="5040"/>
+  <object name="BlueGarg" gid="12" x="1440" y="5160"/>
+  <object name="BlueGarg" gid="12" x="1440" y="5280"/>
+  <object name="BlueGarg" gid="12" x="1440" y="5400"/>
+  <object name="BlueGarg" gid="12" x="1440" y="5520"/>
+  <object name="BlueGarg" gid="12" x="1440" y="5640"/>
  </objectgroup>
 </map>
