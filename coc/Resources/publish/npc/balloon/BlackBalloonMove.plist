@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>BlackMove.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{173,227}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>sourceSize</key>
+                <string>{173,227}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>1</integer>
+            <key>realTextureFileName</key>
+            <string>BlackBalloonMove.png</string>
+            <key>size</key>
+            <string>{256,256}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:c1ed8b285888f34a4d86294ae6a54bf7:7d1cd860f3996a796001c562517342a3:599ca35e79867f1e06b29b9d2502bf04$</string>
+            <key>textureFileName</key>
+            <string>BlackBalloonMove.png</string>
+        </dict>
+    </dict>
+</plist>

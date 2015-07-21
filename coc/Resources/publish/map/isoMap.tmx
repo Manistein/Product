@@ -30,6 +30,9 @@
  <tileset firstgid="10" name="AIPillbox" tilewidth="273" tileheight="317">
   <image source="AIPillbox.png" width="273" height="317"/>
  </tileset>
+ <tileset firstgid="11" name="RedBalloon" tilewidth="158" tileheight="211">
+  <image source="../../characters/468.0.png" width="158" height="211"/>
+ </tileset>
  <layer name="backgroundLayer" width="50" height="50">
   <properties>
    <property name="cc_vertexz" value="-1000"/>
@@ -5079,37 +5082,12 @@
   <object name="PinkArcher" gid="6" x="4440" y="480"/>
  </objectgroup>
  <objectgroup name="playerNpcEditLayer">
-  <object name="BlueEnchanter" gid="8" x="1633.64" y="5640"/>
-  <object name="BlueEnchanter" gid="8" x="1320" y="5640"/>
-  <object name="BlueEnchanter" gid="8" x="1513.64" y="5520"/>
-  <object name="BlueEnchanter" gid="8" x="1320" y="5760"/>
-  <object name="BlueEnchanter" gid="8" x="1320" y="5520"/>
-  <object name="BlueEnchanter" gid="8" x="1513.64" y="5760"/>
-  <object name="BlueEnchanter" gid="8" x="1513.64" y="5640"/>
-  <object name="BlueEnchanter" gid="8" x="1440" y="5520"/>
-  <object name="BlueEnchanter" gid="8" x="1513.64" y="5400"/>
-  <object name="BlueEnchanter" gid="8" x="1633.64" y="5520"/>
-  <object name="BlueEnchanter" gid="8" x="1633.64" y="5400"/>
-  <object name="BlueEnchanter" gid="8" x="1320" y="5400"/>
-  <object name="BlueEnchanter" gid="8" x="1440" y="5760"/>
-  <object name="BlueEnchanter" gid="8" x="1440" y="5400"/>
-  <object name="BlueEnchanter" gid="8" x="1633.64" y="5760"/>
-  <object name="BlueEnchanter" gid="8" x="1440" y="5640"/>
-  <object name="BlueEnchanter" gid="8" x="913.64" y="5040"/>
-  <object name="BlueEnchanter" gid="8" x="600" y="5040"/>
-  <object name="BlueEnchanter" gid="8" x="793.64" y="4920"/>
-  <object name="BlueEnchanter" gid="8" x="600" y="5160"/>
-  <object name="BlueEnchanter" gid="8" x="600" y="4920"/>
-  <object name="BlueEnchanter" gid="8" x="793.64" y="5160"/>
-  <object name="BlueEnchanter" gid="8" x="793.64" y="5040"/>
-  <object name="BlueEnchanter" gid="8" x="720" y="4920"/>
-  <object name="BlueEnchanter" gid="8" x="793.64" y="4800"/>
-  <object name="BlueEnchanter" gid="8" x="913.64" y="4920"/>
-  <object name="BlueEnchanter" gid="8" x="913.64" y="4800"/>
-  <object name="BlueEnchanter" gid="8" x="600" y="4800"/>
-  <object name="BlueEnchanter" gid="8" x="720" y="5160"/>
-  <object name="BlueEnchanter" gid="8" x="720" y="4800"/>
-  <object name="BlueEnchanter" gid="8" x="913.64" y="5160"/>
-  <object name="BlueEnchanter" gid="8" x="720" y="5040"/>
+  <object name="RedBalloon" gid="11" x="480" y="4920"/>
+  <object name="RedBalloon" gid="11" x="720" y="4920"/>
+  <object name="RedBalloon" gid="11" x="360" y="5640"/>
+  <object name="RedBalloon" gid="11" x="600" y="5640"/>
+  <object name="RedBalloon" gid="11" x="840" y="5640"/>
+  <object name="RedBalloon" gid="11" x="840" y="5280"/>
+  <object name="RedBalloon" gid="11" x="960" y="4920"/>
  </objectgroup>
 </map>
