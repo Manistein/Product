@@ -1,3 +1,3 @@
 ForceType	EnchanterTemplateName	EnchanterReinforceCount	ArcherTemplateName	ArcherReinforceCount	BarbarianTemplateName	BarbarianReinforceCount	EnchanterTowerTemplateName	ArcherTowerTempalteName	BalloonTemplateName	RedBalloonReinforceCount
 Player	BlueEnchanter	5	BlueArcher	10	BrownBarbarian	15	BlueMagicTower	PurpleAnchorTower	RedBalloon	1
-AI	PurpleEnchanter	5	PinkArcher	10	BlueBarbarian	15	PurpleMagicTower	PinkAnchorTower	RedBalloon	1
+AI	PurpleEnchanter	5	PinkArcher	10	BlueBarbarian	15	PurpleMagicTower	PinkAnchorTower	BlackBalloon	1
