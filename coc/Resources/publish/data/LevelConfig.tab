@@ -9,3 +9,6 @@ PurpleAnchorTower	67	7390	ArcherTower1.png	5000	107	11824	ArcherTower2.png	8000	
 PinkAnchorTower	67	7390	ArcherTower1.png	5000	107	11824	ArcherTower2.png	8000	171	18918	ArcherTower3.png	12800	273	30268	ArcherTower4.png	20480	436	48428	ArcherTower5.png	32768
 BlueMagicTower	85	3000	MagicTower1.png	5000	136	4800	MagicTower2.png	8000	217	7680	MagicTower3.png	12800	347	12288	MagicTower4.png	20480	555	19660	MagicTower5.png	32768
 PurpleMagicTower	85	3000	MagicTower1.png	5000	136	4800	MagicTower2.png	8000	217	7680	MagicTower3.png	12800	347	12288	MagicTower4.png	20480	555	19660	MagicTower5.png	32768
+RedBalloon	320	1500	Level1Rank.png	6000	475	2000	Level2Rank.png	10000	600	2700	Level3Rank.png	14800	750	3200	Level4Rank.png	25480	900	4000	Level5Rank.png	40768
+BlackBalloon	320	1500	Level1Rank.png	6000	475	2000	Level2Rank.png	10000	600	2700	Level3Rank.png	14800	750	3200	Level4Rank.png	25480	900	4000	Level5Rank.png	40768
+BlueGarg	400	80	Level1Rank.png	6000	500	100	Level2Rank.png	10000	800	120	Level3Rank.png	14800	1000	150	Level4Rank.png	25480	1300	200	Level5Rank.png	40768

@@ -52,6 +52,14 @@
           <Image Name="ButtonNormal.png" />
           <Image Name="ButtonOver.png" />
           <Image Name="OptionBackground.png" />
+          <Image Name="BalloonButtonDisable.png" />
+          <Image Name="BalloonButtonDown.png" />
+          <Image Name="BalloonButtonNormal.png" />
+          <Image Name="BalloonButtonOver.png" />
+          <Image Name="GargButtonDisable.png" />
+          <Image Name="GargButtonDown.png" />
+          <Image Name="GargButtonNormal.png" />
+          <Image Name="GargButtonOver.png" />
         </Folder>
         <TTF Name="arial.ttf" />
         <Folder Name="MenuScene">
