@@ -139,7 +139,7 @@
                     <BallPressedData Type="Default" Path="Default/SliderNode_Press.png" Plist="" />
                     <BallDisabledData Type="Default" Path="Default/SliderNode_Disable.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Text_EffectVolumeChange" ActionTag="-1293193979" Tag="49" IconVisible="False" LeftMargin="354.5356" RightMargin="757.4644" TopMargin="388.1084" BottomMargin="304.8916" FontSize="24" LabelText="背景音乐音量：" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                  <AbstractNodeData Name="Text_EffectVolumeChange" ActionTag="-1293193979" Tag="49" IconVisible="False" LeftMargin="354.5356" RightMargin="757.4644" TopMargin="388.1084" BottomMargin="304.8916" FontSize="24" LabelText="背景音效音量：" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
                     <Size X="168.0000" Y="27.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="438.5356" Y="318.3916" />
