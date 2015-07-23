@@ -1,2 +1,3 @@
 TemplateName	AnimationPListName	PerUnitIntervalBySecond
 BuildingBomb	BuildingDestroyAnimation.plist	0.1
+BombExplode	Explode.plist	0.1
