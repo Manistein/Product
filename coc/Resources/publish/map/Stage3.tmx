@@ -5154,8 +5154,6 @@
  </objectgroup>
  <objectgroup name="aiBuildingEditLayer">
   <object name="BaseCamp" gid="3" x="5640" y="600"/>
-  <object name="AIPillbox" gid="10" x="5640" y="1080"/>
-  <object name="AIPillbox" gid="10" x="5160" y="600"/>
   <object name="AIPillbox" gid="10" x="480" y="480"/>
   <object name="PinkAnchorTower" gid="4" x="480" y="840">
    <properties>
@@ -5204,47 +5202,99 @@
     <property name="level" value="5"/>
    </properties>
   </object>
-  <object name="PinkAnchorTower" gid="4" x="4080" y="480">
+  <object name="PinkAnchorTower" gid="4" x="4200" y="360">
    <properties>
     <property name="level" value="5"/>
    </properties>
   </object>
-  <object name="PinkAnchorTower" gid="4" x="4440" y="840">
+  <object name="PinkAnchorTower" gid="4" x="4560" y="720">
    <properties>
     <property name="level" value="5"/>
    </properties>
   </object>
-  <object name="PinkAnchorTower" gid="4" x="4800" y="1200">
+  <object name="PinkAnchorTower" gid="4" x="4920" y="1080">
    <properties>
     <property name="level" value="5"/>
    </properties>
   </object>
-  <object name="PinkAnchorTower" gid="4" x="5160" y="1560">
+  <object name="PinkAnchorTower" gid="4" x="5280" y="1440">
    <properties>
     <property name="level" value="5"/>
    </properties>
   </object>
-  <object name="PinkAnchorTower" gid="4" x="5520" y="1920">
+  <object name="PinkAnchorTower" gid="4" x="5640" y="1800">
    <properties>
     <property name="level" value="5"/>
    </properties>
   </object>
-  <object name="PinkAnchorTower" gid="4" x="4560" y="480">
+  <object name="PinkAnchorTower" gid="4" x="4680" y="360">
    <properties>
     <property name="level" value="5"/>
    </properties>
   </object>
-  <object name="PinkAnchorTower" gid="4" x="4920" y="840">
+  <object name="PinkAnchorTower" gid="4" x="5040" y="720">
    <properties>
     <property name="level" value="5"/>
    </properties>
   </object>
-  <object name="PinkAnchorTower" gid="4" x="5280" y="1200">
+  <object name="PinkAnchorTower" gid="4" x="5400" y="1080">
    <properties>
     <property name="level" value="5"/>
    </properties>
   </object>
-  <object name="PinkAnchorTower" gid="4" x="5640" y="1560">
+  <object name="PinkAnchorTower" gid="4" x="5760" y="1440">
+   <properties>
+    <property name="level" value="5"/>
+   </properties>
+  </object>
+  <object name="PinkAnchorTower" gid="4" x="360" y="3000">
+   <properties>
+    <property name="level" value="5"/>
+   </properties>
+  </object>
+  <object name="PinkAnchorTower" gid="4" x="600" y="2640">
+   <properties>
+    <property name="level" value="5"/>
+   </properties>
+  </object>
+  <object name="PinkAnchorTower" gid="4" x="600" y="3000">
+   <properties>
+    <property name="level" value="5"/>
+   </properties>
+  </object>
+  <object name="AIPillbox" gid="10" x="360" y="2640"/>
+  <object name="PinkAnchorTower" gid="4" x="360" y="2280">
+   <properties>
+    <property name="level" value="5"/>
+   </properties>
+  </object>
+  <object name="PinkAnchorTower" gid="4" x="600" y="2280">
+   <properties>
+    <property name="level" value="5"/>
+   </properties>
+  </object>
+  <object name="PinkAnchorTower" gid="4" x="5280" y="3120">
+   <properties>
+    <property name="level" value="5"/>
+   </properties>
+  </object>
+  <object name="PinkAnchorTower" gid="4" x="5640" y="2760">
+   <properties>
+    <property name="level" value="5"/>
+   </properties>
+  </object>
+  <object name="AIPillbox" gid="10" x="5640" y="3120"/>
+  <object name="PinkAnchorTower" gid="4" x="5640" y="3480">
+   <properties>
+    <property name="level" value="5"/>
+   </properties>
+  </object>
+  <object name="PinkAnchorTower" gid="4" x="5280" y="2760">
+   <properties>
+    <property name="level" value="5"/>
+   </properties>
+  </object>
+  <object name="PinkAnchorTower" gid="4" x="5280" y="3480">
    <properties>
     <property name="level" value="5"/>
    </properties>
