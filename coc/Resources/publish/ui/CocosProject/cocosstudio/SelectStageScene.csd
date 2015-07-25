@@ -207,14 +207,14 @@
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="Text_StageTips" ActionTag="1625815152" Tag="73" IconVisible="False" LeftMargin="22.2148" RightMargin="4.7852" TopMargin="188.8034" BottomMargin="200.1966" IsCustomSize="True" FontSize="24" LabelText="" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
-                        <Size X="280.0000" Y="300.0000" />
+                      <AbstractNodeData Name="Text_StageTips" ActionTag="1625815152" Tag="73" IconVisible="False" LeftMargin="22.2145" RightMargin="4.7855" TopMargin="150.3033" BottomMargin="113.6966" IsCustomSize="True" FontSize="24" LabelText="" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                        <Size X="280.0000" Y="425.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="162.2148" Y="350.1966" />
+                        <Position X="162.2145" Y="326.1966" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.5284" Y="0.5083" />
-                        <PreSize X="0.2188" Y="0.4167" />
+                        <PrePosition X="0.5284" Y="0.4734" />
+                        <PreSize X="0.9121" Y="0.6168" />
                         <FontResource Type="Normal" Path="lishu.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
