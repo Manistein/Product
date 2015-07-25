@@ -5,3 +5,5 @@
 /coc/coc.ilk
 /coc/coc.lib
 /coc/coc.exe
+/coc/Debug/*.pdb
+/coc/Release/*.pdb
